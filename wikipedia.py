@@ -2,6 +2,7 @@ import wikipediaapi
 from unidecode import unidecode
 import re
 import time
+import requests
 
 
 # The main categories of Wikipedia
@@ -33,24 +34,33 @@ wiki_wiki = wikipediaapi.Wikipedia(
 # Go through categories and pages recursively
 def get_categories(category, depth=0, max_depth=5):
     for page in category.values():
-        # Regular pages, add to the list
-        if page.ns == wikipediaapi.Namespace.MAIN:
-            # Skip pages with avoid words in the title
-            if any(word in unidecode(page.title) for word in avoid_words):
-                print(f'Skipping {unidecode(page.title)} (avoid word)')
-                continue
-            if unidecode(page.title) in done_list:
-                print(f'Skipping {unidecode(page.title)} (already done)')
-                continue
-            if unidecode(page.title) in small_pages_list:
-                print(f'Skipping {unidecode(page.title)} (too small)')
-                continue
+        try:
+            # Regular pages, add to the list
+            if page.ns == wikipediaapi.Namespace.MAIN:
+                # Skip pages with avoid words in the title
+                if any(word in unidecode(page.title) for word in avoid_words):
+                    print(f'Skipping {unidecode(page.title)} (avoid word)')
+                    continue
+                if unidecode(page.title) in done_list:
+                    print(f'Skipping {unidecode(page.title)} (already done)')
+                    continue
+                if unidecode(page.title) in small_pages_list:
+                    print(f'Skipping {unidecode(page.title)} (too small)')
+                    continue
 
-            save_page(page)
+                save_page(page)
 
-        # Subcategories, dig deeper
-        elif page.ns == wikipediaapi.Namespace.CATEGORY and depth < max_depth:
-            get_categories(page.categorymembers, depth + 1, max_depth)
+            # Subcategories, dig deeper
+            elif (
+                page.ns == wikipediaapi.Namespace.CATEGORY and
+                depth < max_depth
+            ):
+                get_categories(page.categorymembers, depth + 1, max_depth)
+
+        except requests.exceptions.ConnectionError as e:
+            print(f"Connection error: {e}. Retrying...")
+            time.sleep(5)  # Wait for 5 seconds before retrying
+            get_categories(page, depth, max_depth)
 
 
 # Save the page to a text file
