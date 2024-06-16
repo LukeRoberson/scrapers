@@ -3,6 +3,13 @@ from unidecode import unidecode
 import re
 import time
 import requests
+import random
+
+
+# Font colours
+GREEN = '\033[92m'
+YELLOW = '\033[93m'
+END = '\033[0m'
 
 
 # The main categories of Wikipedia
@@ -32,35 +39,82 @@ wiki_wiki = wikipediaapi.Wikipedia(
 
 
 # Go through categories and pages recursively
-def get_categories(category, depth=0, max_depth=5):
-    for page in category.values():
-        try:
-            # Regular pages, add to the list
-            if page.ns == wikipediaapi.Namespace.MAIN:
-                # Skip pages with avoid words in the title
-                if any(word in unidecode(page.title) for word in avoid_words):
-                    print(f'Skipping {unidecode(page.title)} (avoid word)')
-                    continue
-                if unidecode(page.title) in done_list:
-                    print(f'Skipping {unidecode(page.title)} (already done)')
-                    continue
-                if unidecode(page.title) in small_pages_list:
-                    print(f'Skipping {unidecode(page.title)} (too small)')
-                    continue
+def get_categories(category, depth=0, max_depth=5, randomize=False):
+    if {str(category).split(" (")[0]} in category_list:
+        print(f'Skipping {category} (already done)')
+        return
 
-                save_page(page)
+    try:
+        # Check if the category is a leaf category; Write to file if it is
+        cat_list = list(category.categorymembers.keys())
+        if not any('Category' in entry for entry in cat_list):
+            print(
+                GREEN + f'{str(category).split(" (")[0]} \
+                is a leaf category' + END
+            )
+            done_list.append(str(category).split(" (")[0])
+            with open('category_list.txt', 'a') as f:
+                f.write(f'{str(category).split(" (")[0]}\n')
 
-            # Subcategories, dig deeper
-            elif (
-                page.ns == wikipediaapi.Namespace.CATEGORY and
-                depth < max_depth
-            ):
-                get_categories(page.categorymembers, depth + 1, max_depth)
+        # Otherwise, print the category and continue
+        else:
+            print(
+                YELLOW + f'{str(category).split(" (")[0]} \
+                has subcategories' + END
+            )
 
-        except requests.exceptions.ConnectionError as e:
-            print(f"Connection error: {e}. Retrying...")
-            time.sleep(5)  # Wait for 5 seconds before retrying
-            get_categories(page, depth, max_depth)
+        pages = list(category.categorymembers.values())
+
+        # Optionally shuffle the lists before starting
+        if randomize:
+            random.shuffle(pages)
+
+        for page in pages:
+            try:
+                # Regular pages, add to the list
+                if page.ns == wikipediaapi.Namespace.MAIN:
+                    # Skip pages with avoid words in the title
+                    if any(
+                        word in unidecode(page.title)
+                        for word
+                        in avoid_words
+                    ):
+                        print(
+                            f'Skipping {unidecode(page.title)} \
+                            (avoid word)'
+                        )
+                        continue
+
+                    if unidecode(page.title) in done_list:
+                        print(
+                            f'Skipping {unidecode(page.title)} \
+                            (already done)'
+                        )
+                        continue
+
+                    if unidecode(page.title) in small_pages_list:
+                        print(
+                            f'Skipping {unidecode(page.title)} \
+                            (too small)'
+                        )
+                        continue
+
+                    save_page(page)
+
+                # Subcategories, dig deeper
+                elif (
+                    page.ns == wikipediaapi.Namespace.CATEGORY and
+                    depth < max_depth
+                ):
+                    get_categories(page, depth + 1, max_depth)
+
+            except requests.exceptions.ConnectionError as e:
+                print(f"Connection error: {e}. Retrying...")
+                time.sleep(5)  # Wait for 5 seconds before retrying
+                get_categories(page, depth, max_depth)
+
+    except Exception as e:
+        print(f"Error: {e}")
 
 
 # Save the page to a text file
@@ -160,6 +214,19 @@ if __name__ == '__main__':
     except FileNotFoundError:
         pass
 
+    # Load the list of categories
+    done_list = []
+    try:
+        with open('category_list.txt', 'r') as f:
+            category_list = f.read().splitlines()
+    except FileNotFoundError:
+        pass
+
     # Start the process
+    random.shuffle(main_categories)
     for category in main_categories:
-        get_categories(wiki_wiki.page(f"Category:{category}").categorymembers)
+        get_categories(
+            wiki_wiki.page(f"Category:{category}"),
+            max_depth=10,
+            randomize=True
+        )

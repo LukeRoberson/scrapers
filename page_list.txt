@@ -62789,3 +62789,916 @@ Extremal optimization
 The Fable of Oscar
 Fine-tuning (deep learning)
 Game theory
+1321 lepers' plot
+2021 Dublin riots
+Cholera riots
+2021 Dutch curfew riots
+June Rebellion
+Moscow plague riot of 1771
+Womey massacre
+Gender digital divide
+Generative artificial intelligence
+Godel machine
+GOLOG
+Grammar systems theory
+Hallucination (artificial intelligence)
+Hardware for artificial intelligence
+Hierarchical control system
+HireVue
+Incremental heuristic search
+INDIAai
+Intelligent agent
+Intrinsic motivation (artificial intelligence)
+Joint Artificial Intelligence Center
+Knowledge-based configuration
+Knowledge-based recommender system
+LangChain
+Language/action perspective
+Lifelong Planning A*
+Machine perception
+Means-ends analysis
+Mindpixel
+MindsDB
+Mivar-based approach
+Moral outsourcing
+National Security Commission on Artificial Intelligence
+Neural architecture search
+Neural computation
+Neuro-symbolic AI
+Neurorobotics
+Non-human
+Nouvelle AI
+Operation Serenata de Amor
+Parallel Intelligence
+Pedagogical agent
+Perplexity.ai
+Personality computing
+Perusall
+POP-11
+Principle of rationality
+Probabilistic logic network
+Problem solving
+Progress in artificial intelligence
+Prompt engineering
+Psychology of reasoning
+Quantum artificial life
+Rabbit r1
+Recursive self-improvement
+Reinforcement learning from human feedback
+Saliency map
+Schema-agnostic databases
+Situated approach (artificial intelligence)
+Software agent
+Spreading activation
+Structure mapping engine
+SUPS
+Symbolic artificial intelligence
+Synthetic media
+Weak artificial intelligence
+Wetware computer
+Winner-take-all in action selection
+Workplace impact of artificial intelligence
+Xiao-i
+Zeuthen strategy
+Peter H. Appel
+Cohort analysis
+Business Intelligence Competency Center
+Business Intelligence Markup Language
+Data classification (business intelligence)
+Craig Fleisher
+FOCUS
+Stewart Liff
+Meteorological intelligence
+Metrics Reference Model
+Mobile business intelligence
+Online video analytics
+Palo (OLAP database)
+Performance indicator
+Predictive analytics
+Predictive modelling
+Real-time business intelligence
+Rushmore Reviews
+Social marketing intelligence
+Social sorting
+Spreadmart
+Stealth mode
+Suggestion box
+Martin H. Wiggers
+Adaptive website
+Ambient awareness
+Arguman
+Civic intelligence
+Collaborative filtering
+Collective consciousness
+Collective memory
+Collective representations
+Collective unconscious
+Collective wisdom
+Consumer-generated advertising
+Digital omnivore
+Digital public square
+Distributed cognition
+Dot-voting
+E-participation
+External memory (psychology)
+Kialo
+The Lucifer Principle
+Media intelligence
+MIT Center for Collective Intelligence
+NewsFutures
+Open publishing
+Organizational intelligence
+Smart mob
+Social choice theory
+Social cognitive optimization
+Social data analysis
+Social media intelligence
+Social navigation
+Spiral optimization algorithm
+Superorganism
+Transgenerational trauma
+User-generated content
+User-generated TV
+Virtual collective consciousness
+World Brain
+Digital intelligence
+Job performance
+Six Seconds
+Social thinking
+Yale Center for Emotional Intelligence
+Military intelligence
+35T
+645th Aeronautical Systems Group
+1943 BRUSA Agreement
+Admiralty code
+Aerorozvidka
+Ulius Louis Amoss
+AN/SLQ-32 electronic warfare suite
+Intelligence analysis management
+Bernard Ardisana
+Khalid Mahmud Arif
+Army Foreign Intelligence Assistance Program
+Black (code)
+Dino Brugioni
+C. D. B. Bryan
+Ronald L. Burgess Jr.
+Casualty estimation
+Clandestine cell system
+Company Level Intelligence Cell
+Counterintelligence
+Intelligence cycle
+Intelligence cycle (target-centric approach)
+Intelligence cycle management
+Danish Defence Intelligence Service
+DARPA LifeLog
+Evidenzbureau
+Failure of imagination
+Fog of war
+Fort Holabird
+Fort Huachuca
+Geophysical MASINT
+Derek Harvey
+Stuart A. Herrington
+Robert M. Huffstutler
+Clandestine HUMINT and covert action
+Clandestine HUMINT operational techniques
+InformNapalm
+Intelligence analysis
+Intelligence cycle security
+Intelligence dissemination management
+Arthur C. Lundahl
+Sidney Mashbir
+Ministry of Intelligence (Israel)
+Ralph Murray
+National Japanese American Historical Society
+Naval Information Warfare Center Atlantic
+Nuclear MASINT
+Operation Dark Heart
+Order of battle
+Order of battle for the Viet Cong
+P. O. Box 1142
+Project Camelot
+William Wilson Quinn
+Radiofrequency MASINT
+Recruitment of spies
+Royal School of Military Survey
+Russian military deception
+Sentient (intelligence analysis system)
+David Shedd
+Signals intelligence
+SIGINT Activity Designator
+Special Reconnaissance Unit
+Ultra (cryptography)
+United States Army Counterintelligence
+Village files
+Words of estimative probability
+Interactive art
+Agrippa (A Book of the Dead)
+Artmedia
+Crown Fountain
+Garbage Goat
+Glitch art
+HaikU
+Interactive Futures
+Installation art
+Installation art
+Street theatre
+Kortunefookie
+Life Cube Project
+Meaning Maker
+Memorial to Victims of Violence in Mexico
+Meow Wolf
+Omega Mart
+Oscilloscoop
+Patatap
+Pod (sculpture)
+Postdigital
+Rain Room
+Stratum Pier
+The Urban Conga
+Weather Machine
+Interactive film
+Interactive cinema
+Batman: Death in the Family
+Black Mirror: Bandersnatch
+Bolton Storyworld: Codename Winterhill
+Carmen Sandiego: To Steal or Not to Steal
+Cat Burglar
+Choose Love (film)
+Choose Your Own Adventure: The Abominable Snowman
+Crimeface
+A Heist with Markiplier
+I'm Your Man (1992 film)
+A Heist with Markiplier
+Interactive video
+Interfilm
+Kinoautomat
+Mr. Payback: An Interactive Movie
+The Oogieloves in the Big Balloon Adventure
+Unbreakable Kimmy Schmidt: Kimmy vs the Reverend
+The Geometer's Sketchpad
+Immersive theater
+Interactive Learning
+RadioDNS
+WarGames (interactive media)
+Your Call Football
+Addventure
+Interactive storytelling
+AI Dungeon
+ChatGPT
+Customer service
+Eastgate Systems
+Mosaic (murder mystery)
+Online Caroline
+Interactive television
+Automatic content recognition
+La Academia (Paraguayan TV series)
+Advanced Content
+Advanced Digital Broadcast
+Amkette EvoTV
+Attack of the Show!
+Battle Kitty
+BBC Red Button
+Cat Burglar
+CloudTV
+Datacasting
+EchoStar Mobile
+First Business
+Full Service Network
+Globally Executable MHP
+Google TV (operating system)
+Hugo (game show)
+Hugo: Jungle Island
+Hybrid Broadcast Broadband TV
+IceTV
+IMX (TV series)
+Interactive television standards
+Interrogation (TV series)
+IP over DVB
+Java TV
+Larry the Lobster
+MHEG-5
+Mosaic (murder mystery)
+Moxi (DVR)
+MSN TV
+Multimedia Home Platform
+PlayJam
+Portable Content Format
+Psychic Readings Live
+Pushbutton
+Red Button (digital television)
+ReplayTV
+Rock Star (TV series)
+Satellite contribution
+SES Broadband
+SES Broadband for Maritime
+SES Platform Services
+Sibley County ICTV System
+Sky Sports
+Slime Time Live
+Social media and television
+Telly (home entertainment server)
+TiVo Inc.
+Transformers: The Headmasters
+U-Pick Live
+Viera Cast
+WapTV
+WTVML
+Yahoo! Smart TV
+Yasmin's Getting Married
+YouView
+Archievenblad
+Archivaria
+Araucaria (software)
+Business decision mapping
+Compendium (software)
+Design rationale
+Kialo
+MindMeister
+ProCon.org
+Abductive reasoning
+Conservatism (belief revision)
+Counterfactual conditional
+Doxastic logic
+Expected utility hypothesis
+Hierarchical temporal memory
+Isaac Levi
+Memory-prediction framework
+Non-monotonic logic
+Paraconsistent logic
+Pragmatic theory of truth
+Reinforcement learning
+Civil Engineering Body of Knowledge
+Information Sharing and Customer Outreach
+Project Management Body of Knowledge
+Project Management Institute
+Systems Engineering Body of Knowledge
+Dewey Decimal Classification
+Conjunctive normal form
+Disjunctive normal form
+Negation normal form
+Common Logic
+CycL
+DARPA Agent Markup Language
+LOOM (ontology)
+Production Rule Representation
+RDF Schema
+Rule Interchange Format
+RuleML
+Semantic Web Rule Language
+Universal Networking Language
+Lexical resource
+Automated Similarity Judgment Program
+BulNet
+Evolution of Human Languages
+Intercontinental Dictionary Series
+Universal Networking Language
+Wikidata
+Library of Congress Classification
+Library of Congress Classification:Class B -- Philosophy, Psychology, Religion
+Library of Congress Classification:Class C -- Auxiliary Sciences of History
+Library of Congress Classification:Class D -- History, General and Old World
+Library of Congress Classification:Class E -- History of America
+Library of Congress Classification:Class F -- Local History of the United States and British, Dutch, French, and Latin America
+Library of Congress Classification:Class G -- Geography. Anthropology. Recreation
+Library of Congress Classification:Class H -- Social sciences
+Library of Congress Classification:Class J -- Political science
+Library of Congress Classification:Class L -- Education
+Library of Congress Classification:Class N -- Fine Arts
+Library of Congress Classification:Class P -- Language and Literature
+Library of Congress Classification:Class Q -- Science
+Library of Congress Classification:Class R -- Medicine
+Library of Congress Classification:Class S -- Agriculture
+Library of Congress Classification:Class T -- Technology
+Library of Congress Classification:Class U -- Military Science
+Library of Congress Classification:Class V -- Naval Science
+COinS
+HCard
+HOCR
+Minimum information about a simulation experiment
+Multi-agent system
+Clustering of self-propelled particles
+Collective motion
+Deliberative agent
+Multi-agent pathfinding
+Multi-agent reinforcement learning
+Pandora FMS
+Pebble motion problems
+SARL (programming language)
+Self-propelled particles
+Spiral optimization algorithm
+Vicsek model
+Abox
+Cyc
+DOGMA
+Domain engineering
+FOAF
+Formal ontology
+FRBRoo
+Function-Behaviour-Structure ontology
+IDEF5
+Knowledge engineering
+LOOM (ontology)
+Minimal mappings
+IDEAS Group
+Olog
+OntoClean
+Ontology components
+Plant Phenology Ontology
+Process ontology
+Semantic matching
+Semantic spectrum
+Soft ontology
+Unified Foundational Ontology
+Analogical models
+Big Bang
+Compartmental models in epidemiology
+Cosmological phase transition
+DART radiative transfer model
+Dynamic global vegetation model
+Fuel model
+Gamma-Re Transition Model
+GRSI model
+Microscale and macroscale models
+Runoff model (reservoir)
+Spekkens toy model
+Swiss cheese model
+UPA model
+Wilson Cycle
+NEPOMUK (software)
+Internationalized Resource Identifier
+Semantic Web
+Uniform Resource Identifier
+AdExtent
+Algolia
+Apache Marmotta
+Arguman
+Argument Web
+Beamly
+BIBFRAME
+Blank node
+Contextual searching
+Convera Corporation
+DARPA Agent Markup Language
+Data.gov.uk
+Digital Enterprise Research Institute
+DSSim
+Editorialization (online content)
+Facebook Graph Search
+FOAF
+Gellish
+GeoNames
+Giant Global Graph
+HTTPRange-14
+Infobox
+JSON-LD
+Kialo
+Knowledge engineering
+Linked Data Platform
+Minimal mappings
+Multimedia Web Ontology Language
+Named graph
+OMDoc
+Ontotext GraphDB
+OWL-S
+Publishing Requirements for Industry Standard Metadata
+RDF Schema
+RDFa
+Regator
+Relationship extraction
+Rule Interchange Format
+Search as a service
+Semantic analytics
+Semantic Application Design Language
+Semantic audio
+Semantic matching
+Semantic publishing
+Semantic Web Rule Language
+Semantic web service
+Semantic Web Services Language
+Semantic Web Stack
+SemanticGov
+Smart-M3
+Social Semantic Web
+Swiftype
+Twine (social network)
+Web Ontology Language
+Web resource
+WebID
+Yebol
+Artificial Intelligence for Environment & Sustainability
+MindMeister
+Rulelog
+SNePS
+SpicyNodes
+Shot grouping
+Flag families
+Galaxy cluster
+Group (military unit)
+Language family
+MECE principle
+Pantheon (religion)
+Parliamentary group
+Religious denomination
+Suite (music)
+Taxonomy
+Carolingian libraries
+Freedom libraries
+Islamic libraries
+Archival science
+Accession number (cultural property)
+Activist Women's Voices
+Anglo-American Cataloguing Rules
+Archival appraisal
+Archival processing
+Archivist
+Audiovisual archive
+BagIt
+Biodiversity Heritage Library for Europe
+Book preservation in developing countries
+British Records Association
+BS 5454
+Calendar (archives)
+Cambridge Digital Library
+Centre de documentation de la musique contemporaine
+Cultural property imaging
+Describing Archives: A Content Standard
+Digital Preservation Coalition
+Digital sustainability
+Encoded Archival Description
+Finding aid
+Fonds
+Historical Records Survey
+Image Permanence Institute
+Inventory (library and archive)
+ISAD(G)
+KryoFlux
+Map collection
+Metadata Encoding and Transmission Standard
+Mobile shelving
+Mold control and prevention (library and archive)
+Nachlass
+National Digital Information Infrastructure and Preservation Program
+National Digital Preservation Program
+Object Reuse and Exchange
+Open Archives Initiative
+Open Archives Initiative Protocol for Metadata Harvesting
+Oregon Hops and Brewing Archives
+Personal archiving
+Ernst Posner
+Preservation (library and archive)
+Provenance
+Records in Contexts
+Regeln fur die alphabetische Katalogisierung
+Respect des fonds
+David Riazanov
+Rules for Archival Description
+T. R. Schellenberg
+SobekCM
+Special collections
+Trustworthy Repositories Audit & Certification
+V-mail
+Panizzi Lectures
+Annotated bibliography
+Bad quarto
+Bay Area Reference Center
+Beaumont and Fletcher folios
+Bluebook
+Bureau of Diplomatic Security bibliography
+Citation
+Critical apparatus
+E. A. Lowe Lectures
+Edition (book)
+Epitome
+False Folio
+First Folio
+Ibid.
+Idem
+ISO 690
+Mitch Joel
+Ben Jonson folios
+Yeshiva
+Note (typography)
+Op. cit.
+Parenthetical referencing
+Pathfinder (library science)
+Benjamin Osgood Peirce
+Peter W. M. Blayney
+Printing and the Mind of Man
+RefME
+Stationers' Register
+Style guide
+Variorum
+Book review
+Book Review Digest
+Accession number (cultural property)
+Automatic indexing
+Four-corner method
+Indexing Society of Canada
+Michael Maclagan
+Search engine indexing
+Table of contents
+Tag URI scheme
+ISBN
+Bookland
+2024 Cumberland book ban
+Millennium Development Goals
+S. R. Ranganathan
+Library 2.0
+Babelio
+Capital Collections
+COinS
+Colwiz
+Connotea
+DOCAM
+ERAMS
+FRBRoo
+Goodreads
+The Library Corporation
+LibraryThing
+LibX
+Live Search Books
+Music Australia (online resource)
+MusicBrainz
+Radical trust
+Runivers
+Serials Solutions
+Shelfari
+Integrated library system
+Automated storage and retrieval system
+BIBFRAME
+ByWater Solutions
+Dynix (software)
+Ex Libris Group
+Innovative Interfaces
+ISO 2709
+Koha (software)
+The Library Corporation
+MARC standards
+NOTIS
+OpenBiblio
+Pakistan Library Automation Group
+PMB (software)
+SirsiDynix
+Standard Interchange Protocol
+Talis Group
+VALA
+Voyager (library program)
+VTLS
+Z39.50
+A.L.A. Catalog
+Aarne-Thompson-Uther Index
+Accession number (cultural property)
+Antisemitic Propaganda: an annotated bibliography and research guide
+Authority control
+BIBFRAME
+BiblioCommons
+BIBSYS
+BISAC Subject Headings
+Bibliotheque nationale de France
+Preussische Instruktionen
+CODOC
+Collection de l'Enfer
+Preussische Instruktionen
+Dewey Decimal Classification
+Dewey-free classification
+Freinet classification
+Gemeinsame Korperschaftsdatei
+Harvard-Yenching Classification
+Iconclass
+International Standard Bibliographic Description
+International Standard Name Identifier
+Inventory (library and archive)
+JEL classification codes
+The Library Corporation
+Library of Congress Control Number
+Lonclass
+MARC standards
+Maschinelles Austauschformat fur Bibliotheken
+Metadata Authority Description Schema
+Metadata Object Description Schema
+Metis Classification
+Lucile M. Morsch
+MusicBrainz
+Name and Title Authority File of Catalonia
+National Union Catalog
+NewGenLib
+ORCID
+Preussische Instruktionen
+Preussische Instruktionen
+Public Information Network for Electronic Services
+Records in Contexts
+Regeln fur die alphabetische Katalogisierung
+ResearcherID
+Resource Description and Access
+Shelfmark
+Superintendent of Documents Classification
+Swedish library classification system
+Talis Group
+United States Geological Survey Library
+Uniterm
+Virtual International Authority File
+Farmington Plan
+Florida Electronic Library
+Interlibrary loan
+MichiCard
+Library catalog
+Library stack
+MichiCard
+Mobile shelving
+African American libraries
+American Library Institute
+William Embry Wrather
+William Embry Wrather
+William Embry Wrather
+Science
+Science
+Science and technology studies
+Artificial Intelligence System
+Australian National Centre for the Public Awareness of Science
+Body Worlds
+Climateprediction.net
+Conversazione
+Cosmology@Home
+Denialism
+Einstein@Home
+Ethical, Legal and Social Aspects research
+Ethnoscience
+Science
+Science and technology studies
+Science
+Science and technology studies
+Artificial Intelligence System
+Australian National Centre for the Public Awareness of Science
+Science
+Science and technology studies
+Artificial Intelligence System
+Australian National Centre for the Public Awareness of Science
+Body Worlds
+Climateprediction.net
+Conversazione
+Cosmology@Home
+Science
+Science
+Science
+Science and technology studies
+Artificial Intelligence System
+Australian National Centre for the Public Awareness of Science
+Body Worlds
+Science
+Science and technology studies
+Artificial Intelligence System
+Australian National Centre for the Public Awareness of Science
+Body Worlds
+Climateprediction.net
+Conversazione
+Cosmology@Home
+Denialism
+People
+Person
+Savilian Professor of Astronomy
+RNA Tie Club
+Claudia Turro
+Members of the Royal Netherlands Academy of Arts and Sciences
+Religion
+Altarpiece in the Chapel of the Immaculate Conception
+Bantu religion
+Becoming Activists in Global China
+Jureur
+Kongo religion
+Medieval ecclesiastic historiography
+Nontheistic religion
+Odinala
+Philosophy of religion
+Recovering from Religion
+Religion and peacebuilding
+Religion of the Shang dynasty
+Religionym and confessionym
+Religious naturalism
+Religious reform
+Sabines
+Samnite religion
+Spirit (supernatural entity)
+Theocracy
+Theology of religions
+Urartu religion
+Yoruba religion
+Religion in space
+Science
+Science and technology studies
+Artificial Intelligence System
+Australian National Centre for the Public Awareness of Science
+Body Worlds
+Derive
+Dramaturgy (sociology)
+Errand
+Everyday Aesthetics
+Everyday Africa
+Everyday life
+Everyday Urbanism
+The Museum of Everyday Life
+Debt: The First 5000 Years
+The Elephant in the Brain
+The Practice of Everyday Life
+The Presentation of Self in Everyday Life
+The Psychopathology of Everyday Life
+Supercapitalism: The Transformation of Business, Democracy, and Everyday Life
+Dramaturgy (sociology)
+Everyday Aesthetics
+Everyday Urbanism
+Debt: The First 5000 Years
+The Elephant in the Brain
+The Practice of Everyday Life
+The Presentation of Self in Everyday Life
+The Psychopathology of Everyday Life
+Supercapitalism: The Transformation of Business, Democracy, and Everyday Life
+Henri Lefebvre
+Fernand Braudel
+Everyday Africa
+Derive
+Everyday life
+The Museum of Everyday Life
+Errand
+Literary fiction
+Academic English
+People
+Person
+Savilian Professor of Astronomy
+RNA Tie Club
+Claudia Turro
+Geographic coordinate system
+Automatic identification system
+Crowdmapping
+Epicenter
+Epicenter
+Geo-blocking
+Geo-fence
+Geographic routing
+Geomessaging
+Geotargeting
+Geolocation Privacy and Surveillance Act
+Horizontal position representation
+Location model (economics)
+Location-based firearm
+Location-based game
+Arise, awake, and stop not till the goal is reached
+Caedite eos. Novit enim Dominus qui sunt eius.
+Drang nach Osten
+First they came ...
+Fratelli tutti
+International Meridian Conference
+1804 Antigua-Charleston hurricane
+1804 New England hurricane
+1806 Great Coastal hurricane
+African-American history
+History of the Cossacks
+Germanic peoples
+History of Indigenous Australians
+History of Tat people
+Human zoo
+Remember versus know judgements
+Unknowability
+Scholar
+Functional illiteracy
+Episteme
+Cognitive closure (philosophy)
+Reason
+Intertwingularity
+Sociology of knowledge
+Academic capital
+Activist knowledge
+Actor-network theory
+Everyday Aesthetics
+Everyday life
+Everyday Urbanism
+The Museum of Everyday Life
+Everyday Africa
+Debt: The First 5000 Years
+The Elephant in the Brain
+The Practice of Everyday Life
+The Presentation of Self in Everyday Life
+The Psychopathology of Everyday Life
+Supercapitalism: The Transformation of Business, Democracy, and Everyday Life
+Henri Lefebvre
+Fernand Braudel
+Everyday Africa
+Dramaturgy (sociology)
+Everyday Aesthetics
+Debt: The First 5000 Years
+The Elephant in the Brain
+The Practice of Everyday Life
+The Presentation of Self in Everyday Life
+The Psychopathology of Everyday Life
+Supercapitalism: The Transformation of Business, Democracy, and Everyday Life
+Henri Lefebvre
+Fernand Braudel
+Errand
+The Museum of Everyday Life
+Derive
+Everyday Urbanism
+Everyday life
+Religion
+Religious vows
+Clerical celibacy
+Chastity
+Civil Constitution of the Clergy

@@ -65,3 +65,5 @@ Add or remove words to/from the **avoid_words** list to skip certain articles.
 Change the article size (default is 2000) to define the size of an article that is too small to bother with.
 
 Alternatively, you could use the pre-existing page_list.txt to just download a list of known good pages. This would require some small editing of the script
+
+Call the function with 'randomize=True' to randomise the contents of categories when they are processed. This might help when resuming, so it's not always in the same order.
