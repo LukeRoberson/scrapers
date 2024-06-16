@@ -1,6 +1,7 @@
 import wikipediaapi
 from unidecode import unidecode
 import re
+import time
 
 
 # The main categories of Wikipedia
@@ -18,7 +19,7 @@ main_categories = [
 # Avoid pages with these words in the title
 avoid_words = [
     'Outline',
-    'Conversazione',
+    'List',
 ]
 
 # Create a Wikipedia object
@@ -36,7 +37,7 @@ def get_categories(category, depth=0, max_depth=5):
         if page.ns == wikipediaapi.Namespace.MAIN:
             # Skip pages with avoid words in the title
             if any(word in unidecode(page.title) for word in avoid_words):
-                print(f'Skipping {unidecode(page.title)} (contains avoid word)')
+                print(f'Skipping {unidecode(page.title)} (avoid word)')
                 continue
             if unidecode(page.title) in done_list:
                 print(f'Skipping {unidecode(page.title)} (already done)')
@@ -56,7 +57,15 @@ def get_categories(category, depth=0, max_depth=5):
 # Set clean to False to save the raw text
 def save_page(page, clean=True):
     # Load the page
-    page = wiki_wiki.page(page.title)
+    try:
+        page = wiki_wiki.page(page.title)
+    except wikipediaapi.exceptions.PageError:
+        print(f"Error: Page not found: {page.title}")
+        return
+    except wikipediaapi.exceptions.HTTPTimeoutError:
+        print(f"Error: HTTP Timeout: {page.title}")
+        time.sleep(5)
+        return
 
     # If the page is very small, don't bother saving it
     if len(page.text) < 2000:
@@ -64,7 +73,7 @@ def save_page(page, clean=True):
             f.write(f'{unidecode(page.title)}\n')
 
     # If it's larger, save it, and store the name in a list
-    else:
+    elif unidecode(page.title) not in done_list:
         # Title and content
         if clean:
             text = cleanup(unidecode(page.text))
