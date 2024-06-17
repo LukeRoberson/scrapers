@@ -9,6 +9,8 @@ import random
 # Font colours
 GREEN = '\033[92m'
 YELLOW = '\033[93m'
+RED = '\033[91m'
+BLUE = '\033[94m'
 END = '\033[0m'
 
 
@@ -28,6 +30,8 @@ main_categories = [
 avoid_words = [
     'Outline',
     'List',
+    '?',
+    '/',
 ]
 
 # Create a Wikipedia object
@@ -69,6 +73,7 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
         if randomize:
             random.shuffle(pages)
 
+        sub_cats = []
         for page in pages:
             try:
                 # Regular pages, add to the list
@@ -107,11 +112,21 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
                     depth < max_depth
                 ):
                     get_categories(page, depth + 1, max_depth)
+                    sub_cats.append(page)
 
             except requests.exceptions.ConnectionError as e:
                 print(f"Connection error: {e}. Retrying...")
                 time.sleep(5)  # Wait for 5 seconds before retrying
                 get_categories(page, depth, max_depth)
+
+        if all(entry in done_list for entry in sub_cats):
+            print(
+                BLUE,
+                f"Subcategories for {category.split(" (")[0]} are done",
+                END
+            )
+            with open('category_list.txt', 'a') as f:
+                f.write(f'{str(category).split(" (")[0]}\n')
 
     except Exception as e:
         print(f"Error: {e}")
