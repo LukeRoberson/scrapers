@@ -170656,3 +170656,1326 @@ Large Asian roundleaf bat
 Lesser great leaf-nosed bat
 Maduran leaf-nosed bat
 Maggie Taylor's roundleaf bat
+Makira roundleaf bat
+Malayan roundleaf bat
+Nicobar leaf-nosed bat
+Orbiculus leaf-nosed bat
+Peleng leaf-nosed bat
+Philippine pygmy roundleaf bat
+Pomona roundleaf bat
+Pratt's roundleaf bat
+Ridley's leaf-nosed bat
+Semon's leaf-nosed bat
+Shield-faced roundleaf bat
+Shield-nosed leaf-nosed bat
+Short-headed roundleaf bat
+Short-tailed roundleaf bat
+Sooty roundleaf bat
+Sorensen's leaf-nosed bat
+Spurred roundleaf bat
+Sumba roundleaf bat
+Telefomin roundleaf bat
+Thailand roundleaf bat
+Timor roundleaf bat
+Wollaston's roundleaf bat
+Asellia
+Maduran leaf-nosed bat
+Cantor's roundleaf bat
+Coelops
+Cox's roundleaf bat
+Dong Bac's trident bat
+East Asian tailless leaf-nosed bat
+Fierce roundleaf bat
+Flower-faced bat
+Giant roundleaf bat
+Greater roundleaf bat
+Hipposideros felix
+Hipposideros kunzi
+Hipposideros rotalis
+Khasian leaf-nosed bat
+Lesser great leaf-nosed bat
+Paratriaenops
+Patrizi's trident leaf-nosed bat
+Philippine pygmy roundleaf bat
+Rufous trident bat
+Shield-faced roundleaf bat
+Short-headed roundleaf bat
+Sooty roundleaf bat
+Spurred roundleaf bat
+Telefomin roundleaf bat
+Temminck's trident bat
+Thailand roundleaf bat
+Timor roundleaf bat
+Aethalops
+Mindanao pygmy fruit bat
+Azagnyi fruit bat
+Balionycteris
+Balionycteris seimundi
+Black-capped fruit bat
+Blanford's fruit bat
+Manado fruit bat
+Black-capped fruit bat
+Cynopterinae
+D'Anchieta's fruit bat
+Dusky fruit bat
+Epomophorinae
+Fischer's pygmy fruit bat
+Fischer's pygmy fruit bat
+Long-haired fruit bat
+Macroglossusinae
+Manado fruit bat
+Megaloglossus
+Mindanao pygmy fruit bat
+Veldkamp's dwarf epauletted fruit bat
+Dusky fruit bat
+D'Anchieta's fruit bat
+Rousettinae
+Small-toothed fruit bat
+Blanford's fruit bat
+Suhaniah fruit bat
+Sulawesi rousette
+Swift fruit bat
+Thoopterus
+Veldkamp's dwarf epauletted fruit bat
+Woermann's bat
+Acerodon
+Palawan fruit bat
+Sunda flying fox
+Talaud flying fox
+Aethalops
+Borneo fruit bat
+Pygmy fruit bat
+Casinycteris
+Pohle's fruit bat
+Short-palated fruit bat
+Cynopterus
+Indonesian short-nosed fruit bat
+Minute fruit bat
+Nusatenggara short-nosed fruit bat
+Desmalopex
+Small white-winged flying fox
+White-winged flying fox
+Dobsonia
+Andersen's naked-backed fruit bat
+Bare-backed fruit bat
+Beaufort's naked-backed fruit bat
+Biak naked-backed fruit bat
+Greenish naked-backed fruit bat
+Halmahera naked-backed fruit bat
+Lesser naked-backed fruit bat
+New Britain naked-backed fruit bat
+New Guinea naked-backed fruit bat
+Panniet naked-backed fruit bat
+Solomon's naked-backed fruit bat
+Sulawesi naked-backed fruit bat
+Western naked-backed fruit bat
+Dyacopterus
+Brooks's dyak fruit bat
+Rickart's dyak fruit bat
+Eidolon (bat)
+Bats at 37 Military Hospital
+Eonycteris
+Greater nectar bat
+Philippine dawn bat
+Epomophorus
+Angolan epauletted fruit bat
+Ansell's epauletted fruit bat
+Dobson's epauletted fruit bat
+East African epauletted fruit bat
+Lesser Angolan epauletted fruit bat
+Minor epauletted fruit bat
+Epomops
+Harpyionycteris
+Macroglossus
+Long-tongued fruit bat
+Javan tailless fruit bat
+Ratanaworabhan's fruit bat
+Tailless fruit bat
+White-collared fruit bat
+Melonycteris
+Fardoulis's blossom bat
+Woodford's fruit bat
+Micropteropus
+Hayman's dwarf epauletted fruit bat
+Myonycteris
+Angolan rousette
+East African little collared fruit bat
+Little collared fruit bat
+Sao Tome collared fruit bat
+Sierra Leone collared fruit bat
+Notopteris
+Long-tailed fruit bat
+New Caledonia blossom bat
+Nyctimene (genus)
+Broad-striped tube-nosed fruit bat
+Dragon tube-nosed fruit bat
+Island tube-nosed fruit bat
+Keast's tube-nosed fruit bat
+Lesser tube-nosed bat
+Malaita tube-nosed fruit bat
+Mountain tube-nosed fruit bat
+Nendo tube-nosed fruit bat
+Pallas's tube-nosed bat
+Philippine tube-nosed fruit bat
+Round-eared tube-nosed fruit bat
+Umboi tube-nosed fruit bat
+Steadfast tube-nosed fruit bat
+Lesser musky fruit bat
+Pteralopex
+New Georgian monkey-faced bat
+Admiralty flying fox
+Aldabra flying fox
+Andersen's flying fox
+Ashy-headed flying fox
+Australian flying fox die-offs
+Banks flying fox
+Black-eared flying fox
+Caroline flying fox
+Dwarf flying fox
+Gilliard's flying fox
+Gray flying fox
+Guam flying fox
+Large Palau flying fox
+Large Samoan flying fox
+Lesser flying fox
+Little golden-mantled flying fox
+Lombok flying fox
+Makira flying fox
+Masked flying fox
+Moluccan flying fox
+New Caledonia flying fox
+New Ireland masked flying fox
+Nicobar flying fox
+Okinawa flying fox
+Ontong Java flying fox
+Ornate flying fox
+Pelew flying fox
+Philippine gray flying fox
+Rennell flying fox
+Seychelles fruit bat
+Small Samoan flying fox
+Solomons flying fox
+Vanuatu flying fox
+Rousettus
+Bare-backed rousette
+Comoro rousette
+Leschenault's rousette
+Linduan rousette
+Styloctenium
+Halmahera blossom bat
+Moss-forest blossom bat
+Acerodon
+Balionycteris
+Halmahera blossom bat
+Broad-striped tube-nosed fruit bat
+Brooks's dyak fruit bat
+Caroline flying fox
+Casinycteris
+Comoro rousette
+Cynopterus
+D'Anchieta's fruit bat
+Desmalopex
+Dobson's epauletted fruit bat
+Dobsonia
+Dragon tube-nosed fruit bat
+Dusky fruit bat
+Dwarf flying fox
+Dyacopterus
+East African epauletted fruit bat
+East African little collared fruit bat
+Eidolon (bat)
+Eonycteris
+Epomophorinae
+Epomophorus
+Epomops
+Fardoulis's blossom bat
+Fischer's pygmy fruit bat
+Gilliard's flying fox
+Greenish naked-backed fruit bat
+Harpyionycteris
+Hayman's dwarf epauletted fruit bat
+Indonesian short-nosed fruit bat
+Island tube-nosed fruit bat
+Javan tailless fruit bat
+Keast's tube-nosed fruit bat
+Large Palau flying fox
+Large Samoan flying fox
+Lesser flying fox
+Lesser musky fruit bat
+Lesser naked-backed fruit bat
+Linduan rousette
+Lombok flying fox
+Long-haired fruit bat
+Long-tailed fruit bat
+Macroglossus
+Macroglossusinae
+Makira flying fox
+Malaita tube-nosed fruit bat
+Manado fruit bat
+Masked flying fox
+Megaloglossus
+Melonycteris
+Micropteropus
+Mindanao pygmy fruit bat
+Minor epauletted fruit bat
+Minute fruit bat
+Moluccan flying fox
+Moss-forest blossom bat
+Mountain tube-nosed fruit bat
+Myonycteris
+Nendo tube-nosed fruit bat
+New Britain naked-backed fruit bat
+New Caledonia flying fox
+New Georgian monkey-faced bat
+New Guinea naked-backed fruit bat
+Nicobar flying fox
+Notopteris
+Nusatenggara short-nosed fruit bat
+Nyctimene (genus)
+Okinawa flying fox
+Ontong Java flying fox
+Ornate flying fox
+Pallas's tube-nosed bat
+Panniet naked-backed fruit bat
+Pelew flying fox
+Philippine dawn bat
+Philippine gray flying fox
+Philippine tube-nosed fruit bat
+Pteralopex
+Ratanaworabhan's fruit bat
+Rickart's dyak fruit bat
+Round-eared tube-nosed fruit bat
+Rousettinae
+Rousettus
+Seychelles fruit bat
+Small Samoan flying fox
+Small white-winged flying fox
+Small-toothed fruit bat
+Solomon's naked-backed fruit bat
+Solomons flying fox
+Steadfast tube-nosed fruit bat
+Styloctenium
+Sulawesi naked-backed fruit bat
+Sulawesi rousette
+Sunda flying fox
+Talaud flying fox
+Umboi tube-nosed fruit bat
+Vanuatu flying fox
+Veldkamp's dwarf epauletted fruit bat
+Western naked-backed fruit bat
+White-collared fruit bat
+White-winged flying fox
+Woermann's bat
+Woodford's fruit bat
+Greater false vampire bat
+Macroderma (bat)
+Megaderma
+Thongaree's disc-nosed bat
+Australasian bent-wing bat
+Eastern bent-wing bat
+Glen's long-fingered bat
+Great bent-winged bat
+Greater long-fingered bat
+Griffith's long-fingered bat
+Intermediate long-fingered bat
+Javanese long-fingered bat
+Lesser long-fingered bat
+Loyalty bent-winged bat
+Major's long-fingered bat
+Miniopterus ambohitrensis
+Miniopterus fossilis
+Miniopterus macrocneme
+Miniopterus maghrebensis
+Miniopterus newtoni
+Miniopterus pallidus
+Mozambique long-fingered bat
+Natal long-fingered bat
+Peterson's long-fingered bat
+Shortridge's long-fingered bat
+Small bent-winged bat
+Southeast Asian long-fingered bat
+Western bent-winged bat
+Wilson's long-fingered bat
+Mato Grosso dog-faced bat
+Mato Grosso dog-faced bat
+Peale's free-tailed bat
+Petramops
+Peters's flat-headed bat
+Promops
+Tadarida constantinei
+Austronomus
+New Guinea free-tailed bat
+Cheiromeles
+Cynomops
+Cynomops milleri
+Freeman's dog-faced bat
+Greenhall's dog-faced bat
+Mexican dog-faced bat
+Eumops
+Big bonneted bat
+Colombian bonneted bat
+Eumops chiribaya
+Eumops delticus
+Eumops wilsoni
+Guianan bonneted bat
+Patagonian bonneted bat
+Sanborn's bonneted bat
+Underwood's bonneted bat
+Rufous dog-faced bat
+Molossus (bat)
+Molossus alvarezi
+Aztec mastiff bat
+Black mastiff bat
+Bonda mastiff bat
+Coiban mastiff bat
+Miller's mastiff bat
+Velvety free-tailed bat
+Mops (bat)
+Angolan free-tailed bat
+Chapin's free-tailed bat
+Duke of Abruzzi's free-tailed bat
+Dwarf free-tailed bat
+Fijian mastiff bat
+Gland-tailed free-tailed bat
+Grandidier's free-tailed bat
+Mops jobimena
+Lappet-eared free-tailed bat
+Malagasy white-bellied free-tailed bat
+Malayan free-tailed bat
+Medje free-tailed bat
+Mongalla free-tailed bat
+Mops atsinanana
+Mops bakarii
+Mops pusillus
+Niangara free-tailed bat
+Northern free-tailed bat
+Peterson's free-tailed bat
+Railer bat
+Russet free-tailed bat
+Solomons mastiff bat
+Spotted free-tailed bat
+Spurrell's free-tailed bat
+Sulawesi free-tailed bat
+Trevor's free-tailed bat
+White-bellied free-tailed bat
+Wrinkle-lipped free-tailed bat
+Incan little mastiff bat
+Kalinowski's mastiff bat
+Mormopterus francoismoutoui
+Natal free-tailed bat
+Sumatran mastiff bat
+Myopterus
+Bini free-tailed bat
+Nyctinomops
+Big free-tailed bat
+Broad-eared bat
+Otomops
+Big-eared mastiff bat
+Javan mastiff bat
+Johnstone's mastiff bat
+Large-eared free-tailed bat
+Madagascar free-tailed bat
+Mantled mastiff bat
+Ozimops loriae
+Ozimops ridei
+Promops
+Big crested mastiff bat
+Brown mastiff bat
+Promops davisoni
+African giant free-tailed bat
+East Asian free-tailed bat
+Kenyan big-eared free-tailed bat
+La Touche's free-tailed bat
+Madagascan large free-tailed bat
+Austronomus
+Brown mastiff bat
+Cheiromeles
+Coiban mastiff bat
+Cynomops
+Dwarf free-tailed bat
+Freeman's dog-faced bat
+Grandidier's free-tailed bat
+Greenhall's dog-faced bat
+Javan mastiff bat
+Johnstone's mastiff bat
+Kenyan big-eared free-tailed bat
+La Touche's free-tailed bat
+Large-eared free-tailed bat
+Madagascan large free-tailed bat
+Malagasy white-bellied free-tailed bat
+Malayan free-tailed bat
+Mantled mastiff bat
+Medje free-tailed bat
+Molossus (bat)
+Mops (bat)
+Mops bakarii
+Myopterus
+New Guinea free-tailed bat
+Nyctinomops
+Otomops
+Ozimops loriae
+Peale's free-tailed bat
+Peterson's free-tailed bat
+Promops
+Promops davisoni
+Railer bat
+Rufous dog-faced bat
+Russet free-tailed bat
+Spotted free-tailed bat
+Tadarida constantinei
+White-bellied free-tailed bat
+Mormoopidae
+Mormoops
+Pteronotus
+Macleay's mustached bat
+Paraguana moustached bat
+Icarops
+Mystacina
+Vulcanops
+Madagascar sucker-footed bat
+Myzopoda
+Myzopoda
+Western sucker-footed bat
+Natalidae
+Gervais's funnel-eared bat
+Natalid organ
+Gervais's funnel-eared bat
+Primonatalus
+Chilonatalus
+Chilonatalus macer
+Natalus
+Bahaman funnel-eared bat
+Brazilian funnel-eared bat
+Lesser Antillean funnel-eared bat
+Mexican funnel-eared bat
+Trinidadian funnel-eared bat
+Andersen's slit-faced bat
+Bates's slit-faced bat
+Dwarf slit-faced bat
+Gambian slit-faced bat
+Intermediate slit-faced bat
+Ja slit-faced bat
+Javan slit-faced bat
+Large-eared slit-faced bat
+Malagasy slit-faced bat
+Malayan slit-faced bat
+Mount Missim long-eared bat
+Parissi's slit-faced bat
+Vinson's slit-faced bat
+Wood's slit-faced bat
+Little white-shouldered bat
+Tree bat
+Bidentate yellow-eared bat
+Brachyphylla
+Brachyphylla
+Brock's yellow-eared bat
+Brown tent-making bat
+Carolliinae
+Chestnut long-tongued bat
+Cozumelan golden bat
+Cuban fruit-eating bat
+Cubanycteris
+Dryadonycteris capixaba
+Ega long-tongued bat
+Velvety fruit-eating bat
+Fischer's little fruit bat
+Giant ghost-faced bat
+Glossophaginae
+Glyphonycterinae
+Golden bat
+Greater round-eared bat
+Guianan spear-nosed bat
+Hairy little fruit bat
+Hsunycteris
+Underwood's long-tongued bat
+Koepcke's hairy-nosed bat
+Yellow-throated big-eared bat
+Least big-eared bat
+Saussure's long-nosed bat
+Lesser spear-nosed bat
+Lichonycteris
+Chestnut long-tongued bat
+Little white-shouldered bat
+Lonchophyllinae
+Lonchorhina
+MacConnell's bat
+MacConnell's bat
+Micronycterinae
+Micronycteris
+Mimon
+Least big-eared bat
+Niceforo's big-eared bat
+Pale brown long-nosed bat
+Pale-faced bat
+Phyllops silvai
+Phyllops vetus
+Rhinophylla
+Saussure's long-nosed bat
+Ega long-tongued bat
+Stripe-headed round-eared bat
+Striped hairy-nosed bat
+Tonatia
+Tree bat
+Niceforo's big-eared bat
+Underwood's long-tongued bat
+Vampyriscus
+Vampyriscus nymphaeus
+Velvety fruit-eating bat
+Vieira's long-tongued bat
+Vieira's long-tongued bat
+Yellow-throated big-eared bat
+Anoura aequatoris
+Anoura peruana
+Broad-toothed tailless bat
+Cadena's tailless bat
+Handley's tailless bat
+Luis Manuel's tailless bat
+Tube-lipped nectar bat
+Artibeus aequatorialis
+Artibeus anthonyi
+Artibeus schwartzi
+Dark fruit-eating bat
+Fringed fruit-eating bat
+Great fruit-eating bat
+Hairy fruit-eating bat
+Large fruit-eating bat
+Dermanura
+Andersen's fruit-eating bat
+Aztec fruit-eating bat
+Bogota fruit-eating bat
+Dermanura rava
+Gervais's fruit-eating bat
+Gnome fruit-eating bat
+Pygmy fruit-eating bat
+Rosenberg's fruit-eating bat
+Silver fruit-eating bat
+Thomas's fruit-eating bat
+Toltec fruit-eating bat
+Carollia
+Benkeith's short-tailed bat
+Chestnut short-tailed bat
+Gray short-tailed bat
+Manu short-tailed bat
+Mono's short-tailed bat
+Silky short-tailed bat
+Sowell's short-tailed bat
+Chiroderma vizottoi
+Little big-eyed bat
+Salvin's big-eyed bat
+Choeroniscus
+Godman's long-tailed bat
+Greater long-tailed bat
+Dermanura
+Andersen's fruit-eating bat
+Aztec fruit-eating bat
+Bogota fruit-eating bat
+Dermanura rava
+Gervais's fruit-eating bat
+Gnome fruit-eating bat
+Pygmy fruit-eating bat
+Rosenberg's fruit-eating bat
+Silver fruit-eating bat
+Thomas's fruit-eating bat
+Toltec fruit-eating bat
+Desmodus
+Stock's vampire bat
+Erophylla
+Brown flower bat
+Glossophaga
+Commissaris's long-tongued bat
+Gray long-tongued bat
+Miller's long-tongued bat
+Pallas's long-tongued bat
+Western long-tongued bat
+Glyphonycteris
+Davies's big-eared bat
+Tricolored big-eared bat
+Hsunycteris
+Cadena's long-tongued bat
+Dashe's nectar bat
+Patton's long-tongued bat
+Thomas's nectar bat
+Southern long-nosed bat
+Lonchophylla
+Chocoan long-tongued bat
+Goldman's nectar bat
+Handley's nectar bat
+Lonchophylla concava
+Lonchophylla fornicata
+Lonchophylla inexpectata
+Lonchophylla orienticollina
+Orange nectar bat
+Orces's long-tongued bat
+Peracchi's nectar bat
+Western nectar bat
+Lonchorhina
+Northern sword-nosed bat
+Orinoco sword-nosed bat
+Tomes's sword-nosed bat
+Lophostoma
+Carriker's round-eared bat
+Davis's round-eared bat
+Kalko's round-eared bat
+Schultz's round-eared bat
+Western round-eared bat
+Micronycteris
+Brosset's big-eared bat
+Common big-eared bat
+Matses's big-eared bat
+Micronycteris giovanniae
+Saint Vincent big-eared bat
+Sanborn's big-eared bat
+Schmidts's big-eared bat
+White-bellied big-eared bat
+Yates's big-eared bat
+Monophyllus
+Insular single leaf bat
+Puerto Rican long-nosed bat
+Phyllonycteris
+Puerto Rican flower bat
+Platyrrhinus
+Eldorado broad-nosed bat
+Matapalo broad-nosed bat
+Platyrrhinus albericoi
+African Civil Aviation Commission
+Ministry of Public Works and Transport (Algeria)
+Agence Nationale de l'Aviation Civile du Benin
+Civil Aviation Authority of Botswana
+Agence Nationale de l'Aviation Civile (Burkina Faso)
+National Civil Aviation and Meteorological Agency (Comoros)
+Agence nationale de l'aviation civile (Republic of the Congo)
+Regie des Voies Aeriennes de la Republique Democratique du Congo
+Ethiopian Civil Aviation Authority
+Agence Nationale de l'Aviation Civile (Gabon)
+Gambia Civil Aviation Authority
+Ghana Civil Aviation Authority
+Autorite Nationale de l'Aviation Civile
+Kenya Civil Aviation Authority
+Libyan Civil Aviation Authority
+Agence Nationale de l'Aviation Civile du Mali
+National Civil Aviation Agency (Mauritania)
+Gadfly (philosophy and social science)
+Status quo
+Structural fix
+Transformative arts
+Castigat ridendo mores
+Consensus theory
+Counterpoise
+Formal sociology
+Local development
+Nova - Center for Social Innovation
+Polli:Nation
+Resistance through culture
+Social artistry
+Unrest
+Youth ambassador
+Afro-pessimism (Africa)
+CVECA
+Africa Digital Awards
+Ghana-India Kofi Annan Centre of Excellence in ICT
+Information and Communication Technology Authority
+Leland Initiative
+Magpi
+Shuttleworth Foundation
+Telephone numbers in Africa
+Mass media in Angola
+Mass media in Benin
+Mass media in Equatorial Guinea
+Mass media in Guinea-Bissau
+Mass media in Kenya
+Mass media in Mauritius
+Mass media in Sao Tome and Principe
+Mass media in Senegal
+Mass media in Tanzania
+Mass media in Togo
+Journal de l'ile de La Reunion
+Run Vibes
+Algeria Quran Radio
+.dz
+Mass media in Angola
+Edicoes Novembro
+Grupo Medianova
+Jornal de Angola
+Newshold
+Mass media in Benin
+Agence Benin Presse
+La Nouvelle Tribune (Benin)
+Office de Radiodiffusion et Television du Benin
+Botswana National Broadcasting Board
+Kutlwano Magazine
+Radio Botswana 2
+The Bobodioufs
+Mass media in Burundi
+Os Flagelados do Vento Leste
+Corbeau News Centrafrique
+Al-Watwan
+Congopresse
+Journaliste en danger
+.eg
+Mass media in Equatorial Guinea
+Diario Rombe
+Radio Nacional de Guinea Ecuatorial
+Asmarino
+Awate
+Radio Erena
+Sabur Printing Press
+Eswatini Broadcasting and Information Service
+Amhara Media Corporation
+Fana Broadcasting Corporate
+Radio Voice of Revolutionary Ethiopia
+Terara Network
+Tghat
+Walta
+Gambia Press Union
+Ankobra FM
+First Digital TV
+Okay FM
+The Statesman Newspaper
+Guinean Entertainment Agency
+Guinean Press Agency
+Mass media in Guinea-Bissau
+Mass media in Kenya
+Media Council of Kenya
+K24 TV
+Kenya Communications (Amendment) Act, 2008
+Signet, Kenya
+Wazi campaign
+The Silo
+Ean Libya
+Libyan Times
+Local Libya
+Quryna
+The Nation (Malawi)
+Union des Radios et Televisions Libres du Mali
+Mauritanian News Agency
+Television in Mauritania
+Mass media in Mauritius
+Sparking Dawn
+Weekly (news magazine)
+Association Royale des Radio Amateurs du Maroc
+Chouf TV
+OJD Morocco
+Savana News
+John Meinert Printing
+Ministry of Information and Communication Technology (Namibia)
+Broadcasting Corporation of Abia State
+Independent Television Producers Association of Nigeria
+Magic FM Aba
+Ndani TV
+Newspaper Proprietors' Association of Nigeria
+NTA Enugu
+RedTV (streaming service)
+Trybe TV
+Wazobia
+Illustrated Life Rhodesia
+Mass media in Sao Tome and Principe
+Mass media in Senegal
+Seneweb.com
+Seychelles Broadcasting Corporation
+Seychelles News Agency
+Garowe Online
+Hiiraan Online
+Puntland Post
+Puntland Star
+Somalia Report
+African Barter Company
+Alternative media in South Africa
+Film and Publication Board
+Nat Nakasa Award for Media Integrity
+Open access in South Africa
+OpenView HD
+Sudan Tribune
+Sudan TV
+Television in Sudan
+Mass media in Tanzania
+Mass media in Togo
+Kamina Funkstation, Togo
+Habib Cheikhrouhou
+List of newspapers in Uganda
+Radio Nacional de la R.A.S.D.
+RASD TV
+Sahara International Film Festival
+XYZ Entertainments
+Operation Dzikisai Madhishi
+Radio Zimbabwe
+Zimbabwe Daily News
+Zimbabwe Independent
+National Institute of Post and Information and Communication Technologies
+Telephone numbers in Algeria
+Telephone numbers in Angola
+Telecommunications in Benin
+Telephone numbers in Benin
+Telephone numbers in Burkina Faso
+Telephone numbers in Burundi
+Telephone numbers in Cameroon
+Telephone numbers in the Central African Republic
+Telephone numbers in Chad
+Telecommunications in the Comoros
+Telephone numbers in the Comoros
+Telephone numbers in the Democratic Republic of the Congo
+Telephone numbers in the Republic of the Congo
+Telecommunications in Djibouti
+Telephone numbers in Djibouti
+Telecommunications in Egypt
+Nilesat 101
+Nilesat 102
+Nilesat 201
+Telephone numbers in Egypt
+Telephone numbers in Equatorial Guinea
+Telephone numbers in Eritrea
+Telephone numbers in Ethiopia
+Telephone numbers in Gabon
+Telephone numbers in the Gambia
+Ghana Satellite Earth Station
+Telephone numbers in Ghana
+Telephone numbers in Guinea
+Telephone numbers in Guinea-Bissau
+Telephone numbers in Ivory Coast
+Telephone numbers in Lesotho
+Telephone numbers in Liberia
+Free Libyana
+Telephone numbers in Libya
+Communications in Malawi
+Malawi Communications Regulatory Authority
+Telephone numbers in Malawi
+Telephone numbers in Mali
+Telecommunications in Mauritania
+Telephone numbers in Mauritania
+Telephone numbers in Mauritius
+Telephone numbers in Morocco
+Telephone numbers in Mozambique
+Telephone numbers in Niger
+GS Telecom
+.ng
+Telephone numbers in Nigeria
+Telephone numbers in Rwanda
+Telecommunications in Sao Tome and Principe
+Telephone numbers in Sao Tome and Principe
+.sn
+Telephone numbers in Senegal
+Telecommunications in Seychelles
+Telephone numbers in Seychelles
+Telephone numbers in Sierra Leone
+Telephone numbers in Somalia
+Hellkom
+South African Internet Exchange
+Village Telco
+Telecommunications in South Sudan
+.ss
+Telephone numbers in Sudan
+List of Internet top-level domains
+Telephone numbers in Tunisia
+Telephone numbers in Uganda
+.ug
+Telephone numbers in Zambia
+Econet Zimbabwe
+Algerian Braille
+.dz
+Postal codes in Algeria
+Telephone numbers in Algeria
+Algeria Quran Radio
+.dz
+National Institute of Post and Information and Communication Technologies
+Telephone numbers in Algeria
+.ao
+Correios de Angola
+Telephone numbers in Angola
+Mass media in Angola
+Edicoes Novembro
+Grupo Medianova
+Jornal de Angola
+Newshold
+Correios de Angola
+Telephone numbers in Angola
+Telecommunications in Benin
+.bj
+GS Telecom
+Telephone numbers in Benin
+Mass media in Benin
+Agence Benin Presse
+La Nouvelle Tribune (Benin)
+Office de Radiodiffusion et Television du Benin
+La Poste du Benin
+Postage stamps and postal history of Benin
+Telecommunications in Benin
+Telephone numbers in Benin
+Postage stamps and postal history of Botswana
+.bw
+Telephone numbers in Botswana
+.bw
+Internet in Botswana
+Botswana National Broadcasting Board
+Kutlwano Magazine
+Radio Botswana 2
+Postage stamps and postal history of Botswana
+.bf
+La Poste Burkina Faso
+Postage stamps and postal history of Burkina Faso
+Telephone numbers in Burkina Faso
+The Bobodioufs
+Telephone numbers in Burkina Faso
+.bi
+Mass media in Burundi
+Regie Nationale des Postes
+Mass media in Burundi
+Telephone numbers in Burundi
+Mass media in Burundi
+Mass media in Burundi
+Postage stamps and postal history of Burundi
+Postage stamps and postal history of Ruanda-Urundi
+Telephone numbers in Burundi
+CAMPOST
+.cm
+Postage stamps and postal history of Cameroon
+Telephone numbers in Cameroon
+Telephone numbers in Cameroon
+Telecommunications in Cape Verde
+Correios de Cabo Verde
+Telephone numbers in Cape Verde
+Telephone numbers in Cape Verde
+Os Flagelados do Vento Leste
+.cf
+Postage stamps and postal history of the Central African Republic
+Telephone numbers in the Central African Republic
+Corbeau News Centrafrique
+Direction des services postaux de l'Office National des Postes et de l'Epargne
+Telephone numbers in the Central African Republic
+Societe tchadienne des postes et de l'epargne
+Telephone numbers in Chad
+Telephone numbers in Chad
+.km
+Telephone numbers in the Comoros
+Al-Watwan
+Telecommunications in the Comoros
+Telephone numbers in the Comoros
+.cd
+Postage stamps and postal history of the Democratic Republic of the Congo
+Telephone numbers in the Democratic Republic of the Congo
+Congopresse
+Journaliste en danger
+Telephone numbers in the Democratic Republic of the Congo
+.cg
+Congolese Posts and Savings Company
+Postage stamps and postal history of French Congo
+Postage stamps and postal history of the Republic of the Congo
+Telephone numbers in the Republic of the Congo
+Telephone numbers in the Republic of the Congo
+.dj
+Postage stamps and postal history of Djibouti
+Telephone numbers in Djibouti
+Djibouti Telecom
+Telecommunications in Djibouti
+Telephone numbers in Djibouti
+Telephone numbers in Egypt
+.eg
+Peter Feltus
+Harrison & Sons Collection
+Hany Salam
+Ernst Heinrich Landrock
+Mohamed Nagy Museum
+Jean Pascal Sebah
+Telecommunications in Egypt
+Nilesat 101
+Nilesat 102
+Nilesat 201
+Telephone numbers in Egypt
+Postage stamps and postal history of Elobey, Annobon, and Corisco
+Gecotel
+.gq
+Telephone numbers in Equatorial Guinea
+Mass media in Equatorial Guinea
+Diario Rombe
+Radio Nacional de Guinea Ecuatorial
+Telephone numbers in Equatorial Guinea
+.er
+Postage stamps and postal history of Eritrea
+Telephone numbers in Eritrea
+Asmarino
+Awate
+Radio Erena
+Sabur Printing Press
+Nay Eretra Samunawi Gazet'a
+Telephone numbers in Eritrea
+Postage stamps and postal history of Eswatini
+Postal codes in Eswatini
+Telephone numbers in Eswatini
+Eswatini Broadcasting and Information Service
+.et
+Ethiopian Postal Service
+International rankings of Ethiopia
+Telephone numbers in Ethiopia
+.et
+Amhara Media Corporation
+Fana Broadcasting Corporate
+Radio Voice of Revolutionary Ethiopia
+Terara Network
+Tghat
+Walta
+Ethiopian Postal Service
+Postage stamps and postal history of Eritrea
+Revenue stamps of Ethiopia
+Bela Szekula
+Telephone numbers in Ethiopia
+.ga
+La Poste (Gabon)
+Telephone numbers in Gabon
+Telephone numbers in Gabon
+Gambia Postal Services Corporation
+.gm
+Postage stamps and postal history of the Gambia
+Telephone numbers in the Gambia
+Gambia Press Union
+Gambia Postal Services Corporation
+Postage stamps and postal history of the Gambia
+West Africa Study Circle
+Telephone numbers in the Gambia
+.gh
+GS Telecom
+Telephone numbers in Ghana
+Ankobra FM
+First Digital TV
+Okay FM
+The Statesman Newspaper
+Postal and Courier Services Regulatory Commission
+Bum steer
+Fact sheet
+Tele-information services
+Market moving information
+InfoQ
+Information oriented software development
+Information space
+Calculation
+Geographic data and information
+Aerial video
+Geospatial content management system
+Global Human Settlement Layer
+Journal of Photogrammetry, Remote Sensing and Geoinformation Science
+OpenLR
+Spatiotemporal database
+National lidar dataset
+Cartography of Israel
+Cartography of Palestine
+Royal Danish Nautical Charts Archive
+Cartography of Africa
+Vatican Gallery of Maps
+Jurisprudence of concepts
+Abstract object theory
+Abstraction (art)
+Great Conversation
+Intrinsic and extrinsic properties
+Abstract object theory
+Noneism
+Terence Parsons
+Plato's beard
+Mathematical object
+Condensation point
+Algebroid function
+Blaney-Criddle equation
+Bridgman's thermodynamic equations
+Comparametric equation
+Danish pile-driving formula
+Defining equation (physical chemistry)
+Drag count
+Faddeev equations
+Gauge factor
+Gc (engineering)
+Haller index
+Harris-Benedict equation
+Intrinsic equation
+Jones-Dole equation
+Neugebauer equations
+Nonequilibrium partition identity
+Photon diffusion equation
+Purnell equation
+Quantum master equation
+Rootare-Prenzlow equation
+Solution in radicals
+Swain equation
+System of bilinear equations
+System of equations
+Thomae's formula
+Wave maps equation
+Welch-Satterthwaite equation
+Wiedersehen pair
+Conservation form
+Rarefaction
+Ancient solution
+Arnold-Beltrami-Childress flow
+Barrier certificate
+Biryukov equation
+Buckmaster equation
+Caloric polynomial
+D'Alembert's equation
+Differential Galois theory
+Euler's differential equation
+Forcing function (differential equations)
+Fuchs' theorem
+Fuzzy differential equation
+Group analysis of differential equations
+Laplace-Carson transform
+Leaky integrator
+Local time
+Terminal countdown demonstration test
+Dwell time (GNSS)
+Clock Constraints Specification Language
+Time displacement
+Temporal typography
+Temporal expressions
+Vierordt's law
+Reference Broadcast Synchronization
+Two-way satellite time and frequency transfer
+C date and time functions
+Estimated time of arrival
+Timing
+KronoScope
+Bruckner-Egeson-Lockyer cycle
+Free-flowering
+Leaf flushing
+Mautam
+Sunspottery
+Bull trap
+Business cycle accounting
+Credit cycle
+Economic expansion
+Hard landing (economics)
+Hydraulic macroeconomics
+Journal of Business Cycle Research
+Clement Juglar
+Lundberg lag
+Geoffrey H. Moore
+Soft landing (economics)
+Spending wave
+Supply shock
+Trough (economics)
+Welfare cost of inflation
+Benner Cycle
+Juglar cycle
+Kitchin cycle
+Kuznets swing
+Reference date (United States business cycles)
+Atalanta (1883)
+Berkshire Cottages
+S. H. H. Clark
+Charles Diebold
+The Journal of the Gilded Age and Progressive Era
+Ogden Mills House
+Cora Randolph Trimble
+Spring Lawn
+Emily Thorn Vanderbilt
+Villa Virginia
+Charles H. Baldwin House
+Beacon Towers
+Blairsden (house)
+Bois Dore
+Bremond Block Historic District
+Alexander Brown House
+Cairnwood
+Nurture
+Back to nature
+Air pollution episode
+Anacoustic zone
+Cultural manager
+Design theory
+Cultural universal
+Seamless branching
+X-ray Reconstruction of Moving Morphology
+Future technology
+Product ecosystem theory
+Global Internet usage
+Global news flow
+Aumale (departement)
+Batna (departement)
+Bone (departement)
+Oran (department)
+Setif (departement)
+Prefectures of Chad
+Batha (prefecture)
+Biltine (prefecture)
+Borkou-Ennedi-Tibesti (prefecture)
+Chari-Baguirmi (prefecture)
+Guera (prefecture)
+Kanem (prefecture)
+Lac (prefecture)
+Logone Occidental (prefecture)
+Logone Oriental (prefecture)
+Mayo-Kebbi (prefecture)
+Moyen-Chari (prefecture)
+Ouaddai (prefecture)
+Salamat (prefecture)
+Tandjile (prefecture)
+Kivu
+Districts of the Democratic Republic of the Congo
+Cataractes District
+Congo-Ubangi District
+Haut-Katanga District
+Ituri District
+Kabinda District
+Kivu District
+Kwilu District
+Lomami District
+Lowa District
+Luapula-Moero District
+Lulonga District
+Mongala District
+Stanley Pool District
+Nord-Kivu District
+Stanley Pool District
+Sud-Kivu District
+Tanganika District
+Tax Receivable Agreement
+Business directory
+Business interaction networks
+Business sector
+Look-through earnings
+Client (business)
+3D billboard
+Commoditization
+Business golf
+Index of auditing-related articles
+Index of articles related to the theory of constraints
+Index of management articles
+Index of auditing-related articles
+Index of management articles
+2013 Bangladesh Premier League player auction
+Star Motorcycles
+Hewlett Packard leadership members
+Governor of the Bank of Canada
+Governor of the People's Bank of China
+Deputy Governor of the Bank of England
+Governor of the Bank of England
+Governor of the Bank of Italy
+Governor of the Central Bank of Sri Lanka
+Anna Fang (investor)
+Mar Hershenson
+Pejman Nozad
+Rankings of Southeast Asia Startups
+Financial Times Global 500
+Forbes Global 2000
+Timeline of the Apple II series
+Stock-taking
+Photon noise
+World Conference on Photovoltaic Energy Conversion
+Margham
+Energy customer switching
+Driving factors
+Energy materials
+Energy signature
+Orders of magnitude (energy)
+Brown energy
+European Photovoltaic Solar Energy Conference and Exhibition
+NET Power Demonstration Facility
+Heat content (fuel)
+Association negaWatt
+Biomass Energy and Alcohol Fuels Act
+Carbon Neutrality Coalition
+China Energy Label
+Collaboration on Energy and Environmental Markets
+Department of Energy Organization Act
+ENBau
+Energy Cities
+Energy tax
+Effort Sharing Regulation
+FERC Order 490
+Geothermal Energy Act
+Greg Gershuny
+National Council for Energy Policy

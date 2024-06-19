@@ -4,6 +4,7 @@ import re
 import time
 import requests
 import random
+from tqdm import tqdm
 
 
 # Font colours
@@ -11,6 +12,7 @@ GREEN = '\033[92m'
 YELLOW = '\033[93m'
 RED = '\033[91m'
 BLUE = '\033[94m'
+WHITE = '\033[97m'
 END = '\033[0m'
 
 
@@ -61,6 +63,7 @@ avoid_words = [
     'List',
     '?',
     '/',
+    'Index'
 ]
 
 # Create a Wikipedia object
@@ -73,28 +76,30 @@ wiki_wiki = wikipediaapi.Wikipedia(
 
 # Go through categories and pages recursively
 def get_categories(category, depth=0, max_depth=5, randomize=False):
+    # Progress bar colour
+    bar_colour = 'WHITE'
+
     if {str(category).split(" (")[0]} in category_list:
         print(f'Skipping {category} (already done)')
         return
 
     try:
-        # Check if the category is a leaf category; Write to file if it is
+        # Check if the category has subcategories
         cat_list = list(category.categorymembers.keys())
-        if not any('Category' in entry for entry in cat_list):
+        if any('Category' in entry for entry in cat_list):
             print(
-                GREEN + f'{str(category).split(" (")[0]} \
-                is a leaf category' + END
+                YELLOW +
+                f'{str(category).split(" (")[0]} has subcategories' +
+                END
             )
-            done_list.append(str(category).split(" (")[0])
-            with open('category_list.txt', 'a') as f:
-                f.write(f'{str(category).split(" (")[0]}\n')
-
-        # Otherwise, print the category and continue
+            bar_colour = 'YELLOW'
         else:
             print(
-                YELLOW + f'{str(category).split(" (")[0]} \
-                has subcategories' + END
+                BLUE +
+                f'{str(category).split(" (")[0]} is a leaf category' +
+                END
             )
+            bar_colour = 'BLUE'
 
         pages = list(category.categorymembers.values())
 
@@ -102,63 +107,119 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
         if randomize:
             random.shuffle(pages)
 
-        # Download pages, and track the ones that are done
+        # Create lists of pages and categories within this category
+        articles = []
+        cats = []
         for page in pages:
+            if page.ns == wikipediaapi.Namespace.MAIN:
+                articles.append(page)
+            elif page.ns == wikipediaapi.Namespace.CATEGORY:
+                cats.append(page)
+
+        # Download articles
+        for article in tqdm(
+            articles,
+            colour=bar_colour,
+            desc='Getting Articles'
+        ):
+            # Skip articles with avoid words in the title
+            if any(
+                word in unidecode(article.title)
+                for word
+                in avoid_words
+            ):
+                continue
+
+            # Skip any articles that have already been done
+            if unidecode(article.title) in done_list:
+                print(
+                    f'Skipping {unidecode(article.title)} \
+                    (already done)'
+                )
+                continue
+
+            # Skip any articles that are too small
+            if unidecode(article.title) in small_pages_list:
+                continue
+
+            # Save the article to a text file
+            save_page(article)
+
+        # Recursively go through subcategories
+        for cat in cats:
             try:
-                # Regular pages, add to the list and download the page
-                if page.ns == wikipediaapi.Namespace.MAIN:
-                    # Skip pages with avoid words in the title
-                    if any(
-                        word in unidecode(page.title)
-                        for word
-                        in avoid_words
-                    ):
-                        print(
-                            f'Skipping {unidecode(page.title)} \
-                            (avoid word)'
-                        )
-                        continue
+                # Recursive call of this function
+                get_categories(cat, depth + 1, max_depth)
 
-                    # Skip any pages that have already been done
-                    if unidecode(page.title) in done_list:
-                        print(
-                            f'Skipping {unidecode(page.title)} \
-                            (already done)'
-                        )
-                        continue
-
-                    # Skip any pages that are too small
-                    if unidecode(page.title) in small_pages_list:
-                        print(
-                            f'Skipping {unidecode(page.title)} \
-                            (too small)'
-                        )
-                        continue
-
-                    # Save the page to a text file
-                    save_page(page)
-
-                # If the page is a subcategory, go deeper (call recursively)
-                elif (
-                    page.ns == wikipediaapi.Namespace.CATEGORY and
-                    depth < max_depth
-                ):
-                    # Recursive call of this function
-                    get_categories(page, depth + 1, max_depth)
-
-                    # If we get to this point, all subcategories are done
-                    #   Write this in the list of completed categories
-                    print(f"{BLUE}Subcategories of {page.title} done{END}")
-                    with open('category_list.txt', 'a') as f:
-                        f.write(f'{unidecode(page.title)}\n')
+                # If we get to this point, all subcategories are done
+                #   Write this in the list of completed categories
+                print(f"{GREEN}Subcategories of {cat.title} done{END}")
+                with open('category_list.txt', 'a') as f:
+                    f.write(f'{unidecode(cat.title)}\n')
 
             except requests.exceptions.ConnectionError as e:
                 print(f"Connection error: {e}. Retrying...")
-                time.sleep(5)  # Wait for 5 seconds before retrying
-                get_categories(page, depth, max_depth)
+                time.sleep(5)  # Wait for 5 seconds before moving on
+
+        # Download pages, and track the ones that are done
+        # for page in pages:
+        #     try:
+        #         # Regular pages, add to the list and download the page
+        #         if page.ns == wikipediaapi.Namespace.MAIN:
+        #             # Skip pages with avoid words in the title
+        #             if any(
+        #                 word in unidecode(page.title)
+        #                 for word
+        #                 in avoid_words
+        #             ):
+        #                 print(
+        #                     f'Skipping {unidecode(page.title)} \
+        #                     (avoid word)'
+        #                 )
+        #                 continue
+
+        #             # Skip any pages that have already been done
+        #             if unidecode(page.title) in done_list:
+        #                 print(
+        #                     f'Skipping {unidecode(page.title)} \
+        #                     (already done)'
+        #                 )
+        #                 continue
+
+        #             # Skip any pages that are too small
+        #             if unidecode(page.title) in small_pages_list:
+        #                 print(
+        #                     f'Skipping {unidecode(page.title)} \
+        #                     (too small)'
+        #                 )
+        #                 continue
+
+        #             # Save the page to a text file
+        #             save_page(page)
+
+        #         # If the page is a subcategory, go deeper (call recursively)
+        #         elif (
+        #             page.ns == wikipediaapi.Namespace.CATEGORY and
+        #             depth < max_depth
+        #         ):
+        #             # Recursive call of this function
+        #             get_categories(page, depth + 1, max_depth)
+
+        #             # If we get to this point, all subcategories are done
+        #             #   Write this in the list of completed categories
+        #             print(f"{GREEN}Subcategories of {page.title} done{END}")
+        #             with open('category_list.txt', 'a') as f:
+        #                 f.write(f'{unidecode(page.title)}\n')
+
+        #     except requests.exceptions.ConnectionError as e:
+        #         print(f"Connection error: {e}. Retrying...")
+        #         time.sleep(5)  # Wait for 5 seconds before retrying
+        #         get_categories(page, depth, max_depth)
 
     except Exception as e:
         print(f"Error: {e}")
+        print("pausing for 5 seconds...")
+        time.sleep(5)  # Wait for 5 seconds before moving on
 
 
 # Save the page to a text file

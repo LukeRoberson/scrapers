@@ -178173,3 +178173,1497 @@ Khajuria's leaf-nosed bat
 Hipposideros kingstonae
 Kolar leaf-nosed bat
 Lamotte's roundleaf bat
+Noack's roundleaf bat
+Northern leaf-nosed bat
+Phou Khao Khouay leaf-nosed bat
+Schneider's leaf-nosed bat
+Sundevall's roundleaf bat
+Hipposideros
+Hipposideros kingstonae
+Megabat
+Bulmer's fruit bat
+Bulmer's fruit bat
+Fijian monkey-faced bat
+Megabat
+Hammer-headed bat
+Hammer-headed bat
+Salim Ali's fruit bat
+Luzon fruit bat
+Fijian monkey-faced bat
+Monfort Bat Sanctuary
+Luzon fruit bat
+Pteropodinae
+Spotted-winged fruit bat
+Giant golden-crowned flying fox
+Sulawesi flying fox
+Campo-Ma'an fruit bat
+Greater short-nosed fruit bat
+Horsfield's fruit bat
+Lesser short-nosed fruit bat
+Philippine naked-backed fruit bat
+Dayak fruit bat
+Madagascan fruit bat
+Straw-coloured fruit bat
+Cave nectar bat
+Ethiopian epauletted fruit bat
+Gambian epauletted fruit bat
+Wahlberg's epauletted fruit bat
+Buettikofer's epauletted fruit bat
+Franquet's epauletted fruit bat
+Harpy fruit bat
+Long-tongued nectar bat
+Black-bellied fruit bat
+Peters's dwarf epauletted fruit bat
+Common tube-nosed fruit bat
+Demonic tube-nosed fruit bat
+Greater musky fruit bat
+Bougainville monkey-faced bat
+Greater monkey-faced bat
+Guadalcanal monkey-faced bat
+Montane monkey-faced bat
+Pteropus
+Aru flying fox
+Black flying fox
+Black-bearded flying fox
+Bonin flying fox
+Christmas Island flying fox
+Great flying fox
+Grey-headed flying fox
+Indian flying fox
+Insular flying fox
+Large flying fox
+Little red flying fox
+Livingstone's fruit bat
+Lyle's flying fox
+Madagascan flying fox
+Mariana fruit bat
+Mauritian flying fox
+Pemba flying fox
+Pteropus brunneus
+Pteropus pelagicus
+Rodrigues flying fox
+Ryukyu flying fox
+Samoa flying fox
+Small flying fox
+Small Mauritian flying fox
+Spectacled flying fox
+Temotu flying fox
+Vanikoro flying fox
+Egyptian fruit bat
+Geoffroy's rousette
+Madagascan rousette
+Zenker's fruit bat
+Mindoro stripe-faced fruit bat
+Sulawesi stripe-faced fruit bat
+Syconycteris
+Common blossom bat
+Pteropodinae
+Megadermatidae
+Heart-nosed bat
+Ghost bat
+Heart-nosed bat
+Yellow-winged bat
+Lesser false vampire bat
+Macroderma godthelpi
+Macroderma koppa
+Macroderma malugara
+Yellow-winged bat
+Miniopterus
+African long-fingered bat
+Common bent-wing bat
+Little bent-wing bat
+Manavi long-fingered bat
+Miniopterus aelleni
+Miniopterus brachytragos
+Miniopterus griveaudi
+Miniopterus mahafaliensis
+Miniopterus sororculus
+Miniopterus tao
+Miniopterus zapfei
+Sandy long-fingered bat
+Southern bent-wing bat
+Free-tailed bat
+Blunt-eared bat
+Micronomus
+Mormopterus
+Roberts's flat-headed bat
+Roberts's flat-headed bat
+Setirostris
+Blunt-eared bat
+Blunt-eared bat
+White-striped free-tailed bat
+Hairless bat
+Cinnamon dog-faced bat
+Black bonneted bat
+Eumops ferox
+Eumops nanus
+Florida bonneted bat
+Wagner's bonneted bat
+Western mastiff bat
+Dwarf dog-faced bat
+Sinaloan mastiff bat
+Ansorge's free-tailed bat
+Gallagher's free-tailed bat
+Little free-tailed bat
+Midas free-tailed bat
+Nigerian free-tailed bat
+Northern freetail bat
+Sao Tome free-tailed bat
+Mormopterus
+Little goblin bat
+Daubenton's free-tailed bat
+Pocketed free-tailed bat
+Harrison's large-eared giant mastiff bat
+Wroughton's free-tailed bat
+Ozimops
+Ozimops cobourgianus
+Ozimops halli
+Ozimops lumsdenae
+Ozimops petersi
+Ozimops planiceps
+Tadarida
+Bracken Cave
+Egyptian free-tailed bat
+European free-tailed bat
+Mexican free-tailed bat
+Antillean ghost-faced bat
+Ghost-faced bat
+Big naked-backed bat
+Davy's naked-backed bat
+Parnell's mustached bat
+Pristine mustached bat
+Sooty mustached bat
+Wagner's mustached bat
+Mystacinidae
+New Zealand greater short-tailed bat
+New Zealand lesser short-tailed bat
+Cuban funnel-eared bat
+Cuban greater funnel-eared bat
+Hispaniolan greater funnel-eared bat
+Hispaniolan greater funnel-eared bat
+Mexican greater funnel-eared bat
+Cuban greater funnel-eared bat
+Bulldog bat
+Greater bulldog bat
+Lesser bulldog bat
+Bulldog bat
+Bulldog bat
+Nycteris
+Egyptian slit-faced bat
+Large slit-faced bat
+Nycteris
+Leaf-nosed bat
+Antillean fruit-eating bat
+Jamaican fig-eating bat
+Banana bat
+Big-eared woolly bat
+Wrinkle-faced bat
+Mexican long-tongued bat
+Big-eared woolly bat
+Cuban fig-eating bat
+Dark long-tongued bat
+Vampire bat
+White-winged vampire bat
+Hairy-legged vampire bat
+Dwarf little fruit bat
+Honduran white bat
+Fringe-lipped bat
+Great stripe-faced bat
+Greater spear-nosed bat
+Hairy-legged vampire bat
+Honduran white bat
+Infrared sensing in vampire bats
+Ipanema bat
+Jamaican fig-eating bat
+Long-legged bat
+Long-snouted bat
+Long-legged bat
+Long-legged bat
+Macrotus
+Mexican long-tongued bat
+Banana bat
+Pale spear-nosed bat
+Phyllostominae
+Long-snouted bat
+Ipanema bat
+Red fruit bat
+Spectral bat
+Visored bat
+Red fruit bat
+Stenodermatinae
+Tent-making bat
+Fringe-lipped bat
+Vampire bat
+Great stripe-faced bat
+Spectral bat
+Visored bat
+White-winged vampire bat
+Wrinkle-faced bat
+Anoura
+Geoffroy's tailless bat
+Tailed tailless bat
+Artibeus
+Flat-faced fruit-eating bat
+Fraternal fruit-eating bat
+Honduran fruit-eating bat
+Jamaican fruit bat
+Seba's short-tailed bat
+Brazilian big-eyed bat
+Guadeloupe big-eyed bat
+Lesser long-tongued bat
+Common vampire bat
+Desmodus draculae
+Buffy flower bat
+Greater long-nosed bat
+Lesser long-nosed bat
+Bokermann's nectar bat
+Dekeyser's nectar bat
+Fernandez's sword-nosed bat
+Marinkelle's sword-nosed bat
+White-throated round-eared bat
+Macrotus
+California leaf-nosed bat
+Waterhouse's leaf-nosed bat
+Little big-eared bat
+Leach's single leaf bat
+Cuban flower bat
+Jamaican flower bat
+Choco broad-nosed bat
+Majority government
+Public inquiry
+Bureau Permanent d'Enquetes d'Accidents et Incidents d'Aviation
+Cameroon Civil Aviation Authority
+Impermanence
+Structural change
+Channel drift
+Chemical reaction
+Culture change
+Damage
+Derivative
+Disturbance (archaeology)
+Ecotone
+Global change
+Derivative
+Liminality
+Living document
+Meliorism
+Paradigm shift
+Rate (mathematics)
+Reversal test
+Sic transit gloria mundi
+Social conflict theory
+Status quo bias
+The Tower (tarot card)
+Transformation in economics
+Transformative learning
+Social change
+Accelerated pluralism
+Accelerating change
+Accelerationism
+After Capitalism
+Agents of social change
+The arts and politics
+Bertelsmann Transformation Index
+Common Impact
+Conflict theories
+Critical consciousness
+Cultural-historical activity theory
+Deterritorialization
+Digitality
+Disneyfication
+Dual power
+Games for Change
+Gender roles in post-communist Central and Eastern Europe
+Global Social Change Research Project
+Human Systems Intervention
+Globalization and women in China
+Large-group capacitation
+Moral exclusion
+New Marriage Law
+Progress
+Progressivism
+Quiet Revolution
+Race of the future
+Radical flank effect
+Rajputisation
+Rhetoric of social intervention model
+Sanskritisation
+SEED-SCALE
+Social emotional development
+Social movement
+Spanish society after the democratic transition
+Sport for social development
+Structuration theory
+Theory of Change
+Transformative social change
+Transhumanism
+Transition management (governance)
+Trends in library usage
+Wikiprogress
+Access to Satellite TV for 10,000 African Villages
+Africa Rising
+African Development Bank
+African Peer Review Mechanism
+Gaborone Declaration for Sustainability in Africa
+Mtwara Development Corridor
+National Development Planning Commission
+Volunteer Partnerships for West Africa
+Access to Satellite TV for 10,000 African Villages
+Africa Source
+Arid Lands Information Network
+Kabissa
+Lifeline Energy
+Tunapanda Institute
+Ungana-Afrika
+Wizzit
+Amateur radio call signs in Africa
+Google Street View in Africa
+Communications in Saint Helena, Ascension and Tristan da Cunha
+Mass media in Algeria
+Mass media in Burkina Faso
+Mass media in Cameroon
+Mass media in Cape Verde
+Mass media in Chad
+Mass media in the Comoros
+Mass media in the Democratic Republic of the Congo
+Mass media in the Republic of the Congo
+Mass media in Egypt
+Mass media in Eritrea
+Mass media in Ethiopia
+Mass media in Gabon
+Mass media in Ghana
+Mass media in Ivory Coast
+Telecommunications in Lesotho
+Mass media in Liberia
+Mass media in Libya
+Communications in Madagascar
+Mass media in Malawi
+Mass media in Mali
+Mass media in Mauritania
+Mass media in Morocco
+Mass media in Mozambique
+Mass media in Namibia
+Mass media in Niger
+Mass media in Nigeria
+Mass media in Rwanda
+Mass media in Sierra Leone
+Mass media in Somalia
+Mass media in South Africa
+Mass media in South Sudan
+Media of Sudan
+Mass media in Tunisia
+Mass media in Uganda
+Mass media in Zambia
+Mass media in Zimbabwe
+2512 (magazine)
+Mass media in Algeria
+Barzakh Editions
+Censorship in Algeria
+English language in Algeria
+Angola Press News Agency
+Human rights in Angola
+Human rights in Benin
+Mass media in Burkina Faso
+Mass media in Cameroon
+Bakwa (magazine)
+Hope Music Group
+Mass media in Cape Verde
+Claridade
+Mass media in Chad
+Mass media in the Comoros
+Mass media in the Democratic Republic of the Congo
+Mass media in the Republic of the Congo
+Mass media in Egypt
+Censorship in Islamic societies
+TVGE
+Mass media in Eritrea
+Mass media in Ethiopia
+Radio in Ethiopia
+Mass media in Gabon
+Mass media in Ghana
+New media in Ghana
+Okyeame
+Mass media in Ivory Coast
+Kenya Broadcasting Corporation
+Telecommunications in Lesotho
+Lesotho Television
+Mass media in Liberia
+Press Union of Liberia
+The Daily Talk
+Mass media in Libya
+Al Aan FM
+Censorship of YouTube
+Free speech in the media during the Libyan civil war (2011)
+Libya Al Ahrar TV
+Libyan Jamahiriya Broadcasting Corporation
+Media of Libya
+Tribute FM
+Voice of Free Libya
+Communications in Madagascar
+Communications in Madagascar
+Mass media in Malawi
+Television Malawi
+Mass media in Mali
+Human rights in Mali
+Studio Tamani
+Mass media in Mauritania
+Mass media in Morocco
+Internet censorship in Morocco
+.ma
+Mass media in Mozambique
+Mass media in Namibia
+Namibia Media Holdings
+Namibian Broadcasting Corporation
+Mass media in Niger
+Mass media in Nigeria
+Broadcasting Organisation of Nigeria
+Elite advertisement in Nigeria
+Mass media in Rwanda
+Amalion
+Feba Radio
+Mass media in Sierra Leone
+Atunda Ayenda
+Mass media in Somalia
+Freedom of the press in Somalia
+Horseed Media
+Propaganda in the War in Somalia (2006-2009)
+Media of Somaliland
+Mass media in South Africa
+Africa Media Online
+Bhekisisa Centre for Health Journalism
+Mass media in South Africa
+Media Appeals Tribunal
+Protection of State Information Bill
+Satanic panic (South Africa)
+South African Associated Newspapers
+TVAfrica
+Xhosa language newspapers
+Mass media in South Sudan
+Censorship of YouTube
+Cinema of South Sudan
+Radio in South Sudan
+SudaneseOnline
+Media of Sudan
+Censorship of YouTube
+Cinema of Sudan
+Photography in Sudan
+Sudan Independent Film Festival
+SudaneseOnline
+Mass media in Tunisia
+Haute Autorite Independante de la Communication Audiovisuelle
+Mass media in Uganda
+Mass media in Zambia
+Northern Rhodesia Journal
+Mass media in Zimbabwe
+Zimbabwe Broadcasting Corporation
+Telecommunications in Algeria
+Algerie Telecom
+Telecommunications in Angola
+Telecommunications in Burkina Faso
+Communications in Burundi
+Telecommunications in Cameroon
+Telecommunications in the Central African Republic
+Telecommunications in Chad
+Telecommunications in the Democratic Republic of the Congo
+Telecommunications in the Republic of the Congo
+Eutelsat 16B
+National Telecommunications Regulatory Authority
+Telecommunications in Equatorial Guinea
+Telecommunications in Eritrea
+Telecommunications in Ethiopia
+Ethiopian Telecommunication Agency
+Radio in Ethiopia
+Telecommunications in Gabon
+Telecommunications in the Gambia
+Telecommunications in Ghana
+Telecommunications in Guinea
+Telecommunications in Guinea-Bissau
+Telecommunications in Ivory Coast
+Telecommunications in Kenya
+TEAMS (cable system)
+Telecommunications in Lesotho
+Telecommunications in Mali
+Telecommunications in Mauritius
+Mahanagar Telephone Nigam Limited
+Telecommunications in Morocco
+Telecommunications in Mozambique
+Telecommunications in Niger
+Telecommunications in Nigeria
+Airtel Africa
+Banks V. Telcos USSD Dispute
+Bharti Airtel
+Etisalat by e&
+Glo (company)
+Internet in Nigeria
+MTN Group
+Telecommunications in Rwanda
+Telecommunications in Senegal
+Telecommunications in Sierra Leone
+Telecommunications in Somaliland
+Telecommunications in South Africa
+Internet in South Africa
+Mobile Literacy in South Africa
+South African Radio League
+South African wireless community networks
+Telephone numbers in South Africa
+Zain Group
+Telecommunications in Sudan
+Telecommunications in Tanzania
+Telecommunications in Tunisia
+BOSCO-Uganda
+Telecommunications in Zambia
+Telecommunications in Zimbabwe
+Internet in Zimbabwe
+Telephone numbers in Zimbabwe
+Internet in Algeria
+Mass media in Algeria
+Barzakh Editions
+Censorship in Algeria
+English language in Algeria
+Postage stamps and postal history of Algeria
+Algerie Poste
+Telecommunications in Algeria
+Algerie Telecom
+Angola Press News Agency
+Human rights in Angola
+Postage stamps and postal history of Angola
+Telecommunications in Angola
+Human rights in Benin
+Telecommunications in Botswana
+Botswana Telecommunications Authority
+BotswanaPost
+BotswanaPost
+A. A. Jurgens
+Postage stamps and postal history of Bechuanaland Protectorate
+Postage stamps and postal history of British Bechuanaland
+Revenue stamps of Bechuanaland
+Postage stamps and postal history of French Sudan
+Telecommunications in Burkina Faso
+Telecommunications in Burkina Faso
+Mass media in Burkina Faso
+Telecommunications in Burkina Faso
+Communications in Burundi
+Communications in Burundi
+Communications in Burundi
+Postage stamps and postal history of German East Africa
+Communications in Burundi
+Mass media in Cameroon
+Bakwa (magazine)
+Hope Music Group
+Telecommunications in Cameroon
+.cv
+Mass media in Cape Verde
+Claridade
+Telecommunications in the Central African Republic
+Telecommunications in the Central African Republic
+Postage stamps and postal history of Chad
+Mass media in Chad
+Telecommunications in Chad
+Postage stamps and postal history of the Comoros
+Mass media in the Comoros
+Vehicle registration plates of the Democratic Republic of the Congo
+Mass media in the Democratic Republic of the Congo
+Telecommunications in the Democratic Republic of the Congo
+Mass media in the Republic of the Congo
+Telecommunications in the Republic of the Congo
+Egypt Post
+Postage stamps and postal history of Egypt
+Voice of the Arabs
+Vehicle registration plates of Egypt
+Mass media in Egypt
+Censorship in Islamic societies
+William Byam
+Egypt Post
+French post offices in Egypt
+Postage stamps and postal history of Egypt
+Hippolyte Arnoux
+George Wilson Bridges
+Luigi Fiorillo
+Harry Gruyaert
+Gabriel Lekegian
+Lee Miller
+Eutelsat 16B
+National Telecommunications Regulatory Authority
+Postage stamps and postal history of Equatorial Guinea
+TVGE
+Telecommunications in Equatorial Guinea
+Mass media in Eritrea
+Telecommunications in Eritrea
+Telecommunications in Ethiopia
+Mass media in Ethiopia
+Internet in Ethiopia
+Internet in Ethiopia
+Mass media in Ethiopia
+Radio in Ethiopia
+Postage stamps and postal history of Ethiopia
+Telecommunications in Ethiopia
+Ethiopian Telecommunication Agency
+Radio in Ethiopia
+Postage stamps and postal history of Gabon
+Mass media in Gabon
+Telecommunications in Gabon
+Gambia Film Unit
+Telecommunications in the Gambia
+William Tevie
+Mass media in Ghana
+New media in Ghana
+Okyeame
+Ghana Post
+Postage stamps and postal history of Ghana
+Price signal
+Community indicators
+Global information system
+Information cascade
+Information processing (psychology)
+Raw data
+Insider trading
+Information engineering
+Information hazard
+Cognitive miser
+Pattern-of-life analysis
+Knowledge society
+Information ecology
+Informal fallacy
+Fallacy
+Data ecosystem
+Information sensitivity
+Statistics
+Digital firm
+Low information voter
+Information science
+Children's use of information
+Information policy
+Information society
+Information
+Mental model
+Infodemic
+Information management
+Informatization
+Computational theory of mind
+3D city model
+Common Operational Datasets
+Coverage data
+DE-9IM
+Decimal degrees
+Digital Earth
+Geographic analytics
+Geographic information retrieval
+Geographic information science
+Geopolitical ontology
+Geoportal
+Georeferencing
+Georelational data model
+Spatial analysis
+Geospatial metadata
+Geospatial topology
+Geotagged photograph
+Geotagging
+Geoweb
+Global Map
+Land administration
+Linear referencing
+Location intelligence
+Macroscope (science concept)
+Observations and Measurements
+Radar geo-warping
+Randonautica
+Satellite imagery
+Satellite imagery in North Korea
+Triangulated irregular network
+Volunteered geographic information
+Geographic information systems in China
+Geography of Australia
+Survey of Bangladesh
+Cartography of China
+Cartography of France
+Iberian cartography, 1400-1600
+Cartography of India
+Conceptual combination
+Fuzzy concept
+Concept
+Concept-driven strategy
+Imaging Blackness
+Symbol
+Abstraction
+Absent-minded professor
+Abstract and concrete
+Abstract labour and concrete labour
+Abstract structure
+Abstraction (computer science)
+Abstraction (mathematics)
+Abstraction (sociology)
+Abstraction layer
+Abstractionism
+Analysis
+Complexity
+Concept
+Continuous predicate
+Daydream
+Distinction (philosophy)
+Entitativity
+First principle
+Frictionless plane
+Genus-differentia definition
+High- and low-level
+Information
+Intentional stance
+Is-a
+Leaky abstraction
+Logical form
+Map-territory relation
+Meaning (philosophy)
+Meme
+Meta (prefix)
+Modularity
+Mutual exclusivity
+Nonexistent objects
+Number
+Object of the mind
+Objective precision
+Point of view (philosophy)
+Property (philosophy)
+Pure mathematics
+Qualia
+Semantic gap
+Simplicity
+Sublime (philosophy)
+Symbol (formal)
+Theory
+Type-token distinction
+Wason selection task
+Windows (Delaunay series)
+Abstract and concrete
+Hector-Neri Castaneda
+Conceptualism
+Construct (philosophy)
+Empty name
+Logicism
+Ernst Mally
+Mathematical universe hypothesis
+Alexius Meinong
+Meinong's jungle
+Nonexistent objects
+Object of the mind
+William J. Rapaport
+Structuralism (philosophy of mathematics)
+Richard Sylvan
+Steno Tedeschi
+Kazimierz Twardowski
+Universal (metaphysics)
+Stephan Witasek
+Infinity
+Inhabited set
+Number
+Set (mathematics)
+Equation
+Algebraic equation
+Algebraic Riccati equation
+Allen-Cahn equation
+Anti-Life Equation
+Archard equation
+Archie's law
+Avrami equation
+Belavkin equation
+Bellman equation
+Binary mass function
+Black-Scholes model
+Board puzzles with algebra of binary variables
+Bring radical
+Cahn-Hilliard equation
+Callendar-Van Dusen equation
+Carlyle circle
+Carothers equation
+Chapman-Kolmogorov equation
+Chemical equation
+Classical field theory
+Clearing denominators
+Cole-Davidson equation
+Competitive Lotka-Volterra equations
+Consistent and inconsistent equations
+Cubic equation
+Departure function
+Dilution (equation)
+Duhem-Margules equation
+Dynamic programming
+Edwards equation
+Einstein's Blackboard
+Equating coefficients
+Equation of time
+Equation solving
+Equations for a falling body
+Ergun equation
+Estimated date of delivery
+Euler-Bernoulli beam theory
+Euler's equations (rigid body dynamics)
+Extraneous and missing solutions
+Fenske equation
+Fisher equation
+Flory-Rehner equation
+Fokker-Planck equation
+Friis formulas for noise
+Generalized Lotka-Volterra equation
+Genetic map function
+Geodesic deviation
+Governing equation
+Gravity (alcoholic beverage)
+Grunwald-Winstein equation
+Haig-Simons income
+Hammett equation
+Hankinson's equation
+Hill's muscle model
+Hubbert curve
+Hudson's equation
+Hypsometric equation
+I = PAT
+Inexact differential equation
+Ito's lemma
+Jacobi field
+Jarzynski equality
+Johnson-Holmquist damage model
+Kelvin's circulation theorem
+Kerr-Newman metric
+Kerr-Newman-de-Sitter metric
+Laguerre formula
+Language equation
+Lindbladian
+Linear equation
+Linear equation over a ring
+London equations
+Lorentz factor
+History of Lorentz transformations
+Mason equation
+Mass-energy equivalence
+Master equation
+Mathisson-Papapetrou-Dixon equations
+Maurer-Cartan form
+Mayo-Lewis equation
+Mott-Schottky equation
+Multiple-prism dispersion theory
+Murray's law
+N-slit interferometric equation
+Newton-Euler equations
+Dimensional analysis
+Pappus's area theorem
+Parametric equation
+Parametric surface
+Penman equation
+Penman-Monteith equation
+Piston motion equations
+Price equation
+Pythagorean theorem
+Quadratic equation
+Quadratic formula
+Dimensional analysis
+Quartic equation
+Quartic function
+Quintic function
+Rabinovich-Fabrikant equations
+Radical extension
+Recursive economics
+Regular chain
+Regular semi-algebraic system
+Resolvent (Galois theory)
+Resolvent cubic
+Rosser's equation
+Sakuma-Hattori equation
+Salvo combat model
+Schrodinger-Newton equation
+Segregated Runge-Kutta methods
+Seneca effect
+Septic equation
+Sextic equation
+Simon-Glatzel equation
+Slutsky equation
+Solution set
+Solving quadratic equations with continued fractions
+Souders-Brown equation
+Spherical wave transformation
+Stokesian dynamics
+Sunrise equation
+Swain-Lupton equation
+Swing equation
+System of linear equations
+System of polynomial equations
+Taft equation
+Tanaka's formula
+Theory of equations
+Torricelli's equation
+Transcendental equation
+Triangular decomposition
+Underdetermined system
+Urey-Bigeleisen-Mayer equation
+Van Deemter equation
+Velocity-addition formula
+Yukawa-Tsuno equation
+Advection
+Axial current
+Buckley-Leverett equation
+Burgers' equation
+Conserved current
+Continuity equation
+Exner equation
+Godunov's scheme
+Kirchhoff's circuit laws
+Prandtl-Meyer expansion fan
+Rankine-Hugoniot conditions
+Riemann invariant
+Riemann problem
+Riemann solver
+Roe solver
+Traffic flow
+Zero-energy universe
+Differential equation
+Floquet theory
+Adomian decomposition method
+Algebraic differential equation
+Autonomous system (mathematics)
+Bendixson-Dulac theorem
+Bidomain model
+Bihari-LaSalle inequality
+Breather surface
+Catenary
+Compartmental models in epidemiology
+Conserved quantity
+Covariant classical field theory
+Cylindrical harmonics
+Delay differential equation
+Differential-algebraic system of equations
+Differentiation of trigonometric functions
+Discrete least squares meshless method
+Distribution (mathematics)
+Einstein-Infeld-Hoffmann equations
+Evolutionary invasion analysis
+Exponential response formula
+Folgar-Tucker Model
+Forward problem of electrocardiology
+Free motion equation
+Fuchs relation
+Fuchsian theory
+Functional differential equation
+Geometric analysis
+Gravity train
+Green's function
+Green's function number
+Hicks equation
+Homogeneous differential equation
+Hurwitz matrix
+Hybrid automaton
+Hybrid system
+Hyperbolic growth
+Inexact differential equation
+Initial condition
+Integro-differential equation
+Jet bundle
+Jost function
+Kermack-McKendrick theory
+Kuramoto-Sivashinsky equation
+Lanchester's laws
+Laplace transform
+Laplace transform applied to differential equations
+Lax pair
+Leray projection
+Lie theory
+Light-time correction
+Rephotography
+Future
+Multiple time dimensions
+RC time constant
+Chronocentrism
+Father Time
+Timeless universe
+Time complexity
+Time-lapse photography
+Time-saving bias
+B-theory of time
+Retarded time
+Time in physics
+Chronophobia
+Temporal encroachment
+Liminality
+Deep time
+Timestream
+Auspicious wedding dates
+Window of opportunity
+Mars sol
+Linked timestamping
+Time
+Scalar expectancy
+Spacetime
+Past
+Chronosophy
+Present
+Time-to-digital converter
+Aeon
+Timestamp
+Chronology
+Cosmic time
+Chronometry
+Trusted timestamping
+Chronemics
+Pulse-per-second signal
+Countdown
+International Date Line
+Bamboo blossom
+Chandler wobble
+Decade
+Deciduous
+Eternal return
+Flower
+Lunar effect
+Menstrual cycle
+Menstrual synchrony
+Metonic cycle
+Milankovitch cycles
+O'Connell effect
+Orbit
+Periodical cicadas
+Phenology
+Reproductive synchrony
+Rush hour
+Solar cycle
+Swarm behaviour
+Time loop
+Business cycle
+Active destocking
+Bank run
+Buffer stock scheme
+Centre for International Research on Economic Tendency Surveys
+Cyclical asymmetry
+Deleveraging
+Economic bubble
+Economic Cycle Research Institute
+Economic recovery
+Economic stability
+Economic stagnation
+Grand supercycle
+Great Moderation
+Growth recession
+Lehman Wave
+Macroprudential regulation
+Wesley Clair Mitchell
+New normal
+Overproduction
+Procyclical and countercyclical variables
+Reactive destocking
+Recession
+Shipping cycle
+Skyscraper Index
+Structural change
+Sudden stop (economics)
+Vicious circle
+Accelerator effect
+Austrian business cycle theory
+Business cycle
+Creative destruction
+Debt deflation
+Financial accelerator
+Fiscal theory of the price level
+Goodwin model (economics)
+Greenwood-Hercowitz-Huffman preferences
+Jaimovich-Rebelo preferences
+Kiyotaki-Moore model
+Kondratiev wave
+Malinvestment
+Minsky moment
+Monetary-disequilibrium theory
+Multiplier-accelerator model
+Pork cycle
+Quantity theory of money
+Real business-cycle theory
+Smihula waves
+Strauss-Howe generational theory
+Technology shock
+Welfare cost of business cycles
+Strauss-Howe generational theory
+Steve Bannon
+Generation Zero (film)
+Heroes of the Fourth Turning
+Neil Howe
+William Strauss
+1990s United States boom
+Gilded Age
+1890s in Western fashion
+Alfred E. Burk House
+American dollar princess
+American Free Trade League
+Caroline Schermerhorn Astor
+John Jacob Astor IV
+Beaulieu House, Newport
+Beechwood (Astor mansion)
+Alva Belmont
+Oliver Belmont
+Margot von Beroldingen
+Betty Leggett
+Cane Spree
+Carnegie Brothers and Company
+Andrew Carnegie
+Carrere and Hastings
+Cornelia, Countess of Craven
+Elizabeth Wharton Drexel
+Thomas Eakins
+Elm Court (Lenox and Stockbridge, Massachusetts)
+Elm Court (Newport, Rhode Island)
+Marion Graves Anthon Fish
+Caroline Fitzgerald
+Henry Flagler
+Giraud Foster
+The Four Hundred (Gilded Age)
+Amos Tuck French
+Henry Clay Frick
+George Ham Page
+The Gilded Age (TV series)
+The Gilded Age: A Tale of Today
+Howard Gould
+Jay Gould
+Hetty Green
+Emily Hoffman
+Winslow Homer
+Margaret Howard, Countess of Suffolk
+Helena Keith-Falconer, Countess of Kintore
+George Lauder (industrialist)
+George Lauder Sr.
+Bradley Martin
+Ward McAllister
+Andrew Mellon
+Alberta Montagu, Countess of Sandwich
+Consuelo Montagu, Duchess of Manchester
+J. P. Morgan
+Nadir of American race relations
+Naumkeag
+Theresa Fair Oelrichs
+Peabody and Stearns
+Cornelia Bryce Pinchot
+George B. Post
+Presidencies of Grover Cleveland
+John D. Rockefeller
+Bertha Perry Ronalds
+John Singer Sargent
+The Search for Order
+Searles Castle (Massachusetts)
+Emily Vanderbilt Sloane
+Henry T. Sloane
+William Douglas Sloane
+Lispenard Stewart
+Henry Morgan Tilford
+Titan: The Life of John D. Rockefeller, Sr.
+Alice Claypoole Vanderbilt
+Consuelo Vanderbilt
+Cornelius Vanderbilt II
+Frances Venables-Vernon, Lady Vernon
+Jean Templeton Ward
+Edith Wharton
+Ava Lowle Willing
+Fernando Yznaga
+Arden (estate)
+Armour-Stiner House
+Beechwood (Astor mansion)
+Beechwood (Vanderlip mansion)
+Belcourt of Newport
+Belle Grove Plantation (Iberville Parish, Louisiana)
+Benjamin N. Duke House
+Biltmore Estate
+Branch House
+The Breakers
+The Breakers (1878)
+Brookholt
+Andrew Carnegie Mansion
+Physis
+Preternatural
+Natural product
+Urban nature
+Patterns in nature
+Natural landscape
+Ecosystem health
+Balance of nature
+Space
+Naturalism (philosophy)
+Energy
+Mfinda
+Supernatural
+Earth
+Natural risk
+Aesthetics of nature
+Nature-based solutions
+Nature
+Sky
+Earth's shadow
+Flight
+Green flash
+Night sky
+Sky brightness
+Weather forecasting
+Atmosphere of Earth
+Air (classical element)
+Air quality index
+Atmospheric window
+High-context and low-context cultures
+Superficiality
+Cultural deprivation
+Cultural nationalism
+Coloured hat
+Depression and culture
+Human rights
+Sport
+Aversion to happiness
+Genre-busting
+Critical consumerism
+Technology
+Technosignature
+History of science and technology
+Technology and society
+Flyover (Apple Maps)
+Hack-for-hire operation
+Gigabit Multimedia Serial Link
+Joshua Browder (entrepreneur)
+Moral outsourcing
+Closed-loop geothermal
+Gerontechnology
+Digital ecology
+Technological determinism
+Representational harm
+Digital humanitarian responses
+Motograph News Bulletin
+History of technology
+History of science and technology
+50 Things That Made the Modern Economy
+Accelerating change
+Aeolipile
+History of agricultural science
+History of aluminium
+Anthropology of technology
+Antikythera mechanism
+History of artificial life
+Automation
+History of the automobile
+History of aviation
+Baseball telecasts technology
+History of the battery
+Benson-Lehner Corporation
+History of biotechnology
+Business History Conference
+History of calendars
+History of the camera
+History of candle making
+History of chromatography
+Chronology of bladed weapons
+History of condoms
+Connections (British TV series)
+Dibner Institute for the History of Science and Technology
+History of the diesel car
+History of Sulzer diesel engines
+Digital history
+Drexler-Smalley debate on molecular nanotechnology
+Efficiency movement
+History of electromagnetic theory
+Timeline of electromagnetism and classical optics
+Frog battery
+Frog galvanoscope
+Great Stirrup Controversy
+History of hearing aids
+Hockney-Falco thesis
+Industrial Revolution
+Industrial Revolution in Scotland
+Second Industrial Revolution
+Industrious Revolution
+History of the internal combustion engine
+International Committee for the History of Technology
+International Economic History Association
+History of the iPhone
+Jackshaft
+Jacquard machine
+Law of the handicap of a head start
+Line shaft
+History of the lithium-ion battery
+Machine Age
+History of manufactured fuel gases
+Maritime history
+Maritime hydraulics in antiquity
+Marx's notebooks on the history of technology
+History of materials science
+History of military technology
+Convenience
+History of the motorcycle
+History of multitrack recording
+History of nanotechnology
+Neolithic Revolution
+Newcomen Society
+Nyctography
+History of the oscilloscope
+History of paper
+Weber Manuscript
+History of perpetual motion machines
+History of photography
+History of polymerase chain reaction
+History of the portable gas stove
+Energy
+Universe
+World
+Demographics of the world
+Ecumene
+Gaia
+Global brain
+Global change
+Global commons
+Global network
+International communication
+International community
+International healthcare accreditation
+Study of global communication
+Terra (mythology)
+World energy supply and consumption
+World news
+World war
+Administrative division
+Alger (department)
+Constantine Department
+Medea (departement)
+Districts of the Belgian Congo
+Aruwimi District
+Banana District
+Bangala District
+Bas-Congo District
+Bas-Uele District
+Equateur District
+Haut-Lomami District
+Haut-Luapula District
+Haut-Uele District
+Kasai District
+Kwango District
+Lac Leopold II District
+Lualaba District
+Lulua District
+Maniema District
+Sankuru District
+Stanley Falls District
+Stanleyville District
+Tanganika-Moero District
+Agribusiness
+Business partnering
+Closure (business)
+Capitalism
+Religion and business
+Registered office
+Real estate business
+Portfolio career
+Core business
+Company code of conduct
+Business
+Timeline of Richard Branson's business ventures
+Index of international trade articles
+Glossary of project management
+Public relations campaigns of Edward Bernays
+Types of legal entities in Russia
+Index of accounting articles
+Index of economics articles
+Index of international trade articles
+Index of real estate articles
+Index of waste management articles
+Thoroughbred valuation
+British Rail brand names
+Dunlop (brands)
+Sears
+Accounting Hall of Fame
+President of the European Central Bank
+Governor of the Bangko Sentral ng Pilipinas
+Governor of the Bank of Spain
+Chair of the Federal Reserve
+Vice Chair of the Federal Reserve
+Marc Andreessen
+Jim Breyer
+Satish Dharmaraj
+Chris Dixon
+Peter Fenton (venture capitalist)
+Lee Fixel
+Bill Gurley
+Reid Hoffman
+David Hornik
+Douglas Leone
+Alfred Lin
+Mary Meeker
+Keith Rabois
+International Sponsors of War
+Corporate title
+Equinor operations by country
+Fortune Global 500
+Franchise 500
+International Sponsors of War
+Form 13F
+Glebe terrier
+Inventory of Church Property
+Energy management software
+Water-energy nexus
+Solar reforming
+Absorption heat pump
+Greisen-Zatsepin-Kuzmin limit
+Fusion energy gain factor
+Energy
+Emergy
+Primary energy
+Energy poverty and gender
+Energy management system (building management)
+Energy density
+Thermodynamics
+Energy operator
+Earth's energy budget
+Energy economics
+Brent oilfield
+Intelligent Energy
+Maximum power principle
+Energy flow (ecology)
+Energy system
+Energy policy
+Energy management
+Life-cycle greenhouse gas emissions of energy sources
+Open energy system databases
+Energy broker
+Energy policy
+100% renewable energy
+2000-watt society
+2007 Russia-Belarus energy dispute
+2022-2023 Russia-European Union gas dispute
+Acheson-Lilienthal Report
+Electricity policy of Alberta
+Alberta Royalty Review
+Baruch Plan
+Bolivian gas conflict
+Cap and dividend
+Citizens' Climate Lobby
+Energy conservation
+The Doomsday Machine (book)
+Efficient energy use
+Electric energy consumption
+Energy and Environmental Security Initiative
+Energy certificate
+Energy Charter Treaty
+Energy Community
+Energy hierarchy
+Energy Independence and Security Act of 2007
+Energy liberalisation
+Energy modeling
+Energy planning
+Energy Policy Act of 2005
+Energy poverty
+Energy recovery
+Energy security and renewable technology
+Energy superpower
+Energy transition
+Energy Victory
+EPS Service Parts Act of 2014
+European Union climate and energy package
+Fossil Fuel Non-Proliferation Treaty Initiative
+Coal phase-out
+Fossil fuel phase-out
+Gas Exporting Countries Forum
+German National Action Plan on Energy Efficiency
+Global strategic petroleum reserves
+The Hype About Hydrogen
+Indirect land use change impacts of biofuels
+International Energy Agency
+International Energy Agency Energy in Buildings and Communities Programme
+International Framework for Nuclear Energy Cooperation
+Iraq oil law (2007)
+Jevons paradox
+Microgeneration
+Mobility transition
+National Energy Program
+Nationalization of oil supplies
