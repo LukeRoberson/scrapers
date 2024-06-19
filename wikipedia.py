@@ -120,7 +120,7 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
         for article in tqdm(
             articles,
             colour=bar_colour,
-            desc='Getting Articles'
+            desc='Getting Articles', leave=False
         ):
             # Skip articles with avoid words in the title
             if any(
