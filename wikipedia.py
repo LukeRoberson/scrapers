@@ -16,14 +16,43 @@ END = '\033[0m'
 
 # The main categories of Wikipedia
 main_categories = [
-    'Science',
-    'Everyday_life',
+    'Academic_disciplines',
+    'Business',
+    'Communication',
+    'Concepts',
+    'Culture',
+    'Economy',
+    'Education',
+    'Energy',
+    'Engineering',
+    'Entertainment',
+    'Entities',
+    'Ethics',
+    'Food_and_drink',
     'Geography',
+    'Government',
+    'Health',
     'History',
+    'Human_behavior',
+    'Humanities',
+    'Information',
+    'Internet',
     'Knowledge',
-    'Literature',
+    'Law',
+    'Mass_media',
+    'Mathematics',
+    'Military',
+    'Nature',
     'People',
+    'Philosophy',
+    'Politics',
     'Religion',
+    'Science',
+    'Society',
+    'Sports',
+    'Technology',
+    'Time',
+    'Universe',
 ]
 
 # Avoid pages with these words in the title
@@ -73,10 +102,10 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
         if randomize:
             random.shuffle(pages)
 
-        sub_cats = []
+        # Download pages, and track the ones that are done
         for page in pages:
             try:
-                # Regular pages, add to the list
+                # Regular pages, add to the list and download the page
                 if page.ns == wikipediaapi.Namespace.MAIN:
                     # Skip pages with avoid words in the title
                     if any(
@@ -90,6 +119,7 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
                         )
                         continue
 
+                    # Skip any pages that have already been done
                     if unidecode(page.title) in done_list:
                         print(
                             f'Skipping {unidecode(page.title)} \
@@ -97,6 +127,7 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
                         )
                         continue
 
+                    # Skip any pages that are too small
                     if unidecode(page.title) in small_pages_list:
                         print(
                             f'Skipping {unidecode(page.title)} \
@@ -104,29 +135,27 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
                         )
                         continue
 
+                    # Save the page to a text file
                     save_page(page)
 
-                # Subcategories, dig deeper
+                # If the page is a subcategory, go deeper (call recursively)
                 elif (
                     page.ns == wikipediaapi.Namespace.CATEGORY and
                     depth < max_depth
                 ):
+                    # Recursive call of this function
                     get_categories(page, depth + 1, max_depth)
-                    sub_cats.append(page)
+
+                    # If we get to this point, all subcategories are done
+                    #   Write this in the list of completed categories
+                    print(f"{BLUE}Subcategories of {page.title} done{END}")
+                    with open('category_list.txt', 'a') as f:
+                        f.write(f'{unidecode(page.title)}\n')
 
             except requests.exceptions.ConnectionError as e:
                 print(f"Connection error: {e}. Retrying...")
                 time.sleep(5)  # Wait for 5 seconds before retrying
                 get_categories(page, depth, max_depth)
-
-        if all(entry in done_list for entry in sub_cats):
-            print(
-                BLUE,
-                f"Subcategories for {category.split(" (")[0]} are done",
-                END
-            )
-            with open('category_list.txt', 'a') as f:
-                f.write(f'{str(category).split(" (")[0]}\n')
 
     except Exception as e:
         print(f"Error: {e}")
