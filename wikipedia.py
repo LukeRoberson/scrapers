@@ -5,6 +5,8 @@ import time
 import requests
 import random
 from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor
+import threading
 
 
 # Font colours
@@ -63,7 +65,8 @@ avoid_words = [
     'List',
     '?',
     '/',
-    'Index'
+    'Index',
+    '.',
 ]
 
 # Create a Wikipedia object
@@ -74,8 +77,34 @@ wiki_wiki = wikipediaapi.Wikipedia(
 )
 
 
+def get_article(article):
+    # For multithreading
+    # Skip articles with avoid words in the title
+    if any(
+        word in unidecode(article.title)
+        for word
+        in avoid_words
+    ):
+        return
+
+    # Skip any articles that have already been done
+    if unidecode(article.title) in done_list:
+        print(
+            f'Skipping {unidecode(article.title)} \
+            (already done)'
+        )
+        return
+
+    # Skip any articles that are too small
+    if unidecode(article.title) in small_pages_list:
+        return
+
+    # Save the article to a text file
+    save_page(article)
+
+
 # Go through categories and pages recursively
-def get_categories(category, depth=0, max_depth=5, randomize=False):
+def get_categories(category, depth=0, max_depth=10, randomize=True):
     # Progress bar colour
     bar_colour = 'WHITE'
 
@@ -117,33 +146,19 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
                 cats.append(page)
 
         # Download articles
-        for article in tqdm(
-            articles,
-            colour=bar_colour,
-            desc='Getting Articles', leave=False
-        ):
-            # Skip articles with avoid words in the title
-            if any(
-                word in unidecode(article.title)
-                for word
-                in avoid_words
-            ):
-                continue
-
-            # Skip any articles that have already been done
-            if unidecode(article.title) in done_list:
-                print(
-                    f'Skipping {unidecode(article.title)} \
-                    (already done)'
+        with ThreadPoolExecutor(max_workers=16) as executor:
+            list(
+                tqdm(
+                    executor.map(
+                        save_page,
+                        articles
+                    ),
+                    total=len(articles),
+                    colour=bar_colour,
+                    desc='Getting Articles',
+                    leave=False
                 )
-                continue
-
-            # Skip any articles that are too small
-            if unidecode(article.title) in small_pages_list:
-                continue
-
-            # Save the article to a text file
-            save_page(article)
+            )
 
         # Recursively go through subcategories
         for cat in cats:
@@ -160,61 +175,6 @@ def get_categories(category, depth=0, max_depth=5, randomize=False):
             except requests.exceptions.ConnectionError as e:
                 print(f"Connection error: {e}. Retrying...")
                 time.sleep(5)  # Wait for 5 seconds before moving on
-
-        # Download pages, and track the ones that are done
-        # for page in pages:
-        #     try:
-        #         # Regular pages, add to the list and download the page
-        #         if page.ns == wikipediaapi.Namespace.MAIN:
-        #             # Skip pages with avoid words in the title
-        #             if any(
-        #                 word in unidecode(page.title)
-        #                 for word
-        #                 in avoid_words
-        #             ):
-        #                 print(
-        #                     f'Skipping {unidecode(page.title)} \
-        #                     (avoid word)'
-        #                 )
-        #                 continue
-
-        #             # Skip any pages that have already been done
-        #             if unidecode(page.title) in done_list:
-        #                 print(
-        #                     f'Skipping {unidecode(page.title)} \
-        #                     (already done)'
-        #                 )
-        #                 continue
-
-        #             # Skip any pages that are too small
-        #             if unidecode(page.title) in small_pages_list:
-        #                 print(
-        #                     f'Skipping {unidecode(page.title)} \
-        #                     (too small)'
-        #                 )
-        #                 continue
-
-        #             # Save the page to a text file
-        #             save_page(page)
-
-        #         # If the page is a subcategory, go deeper (call recursively)
-        #         elif (
-        #             page.ns == wikipediaapi.Namespace.CATEGORY and
-        #             depth < max_depth
-        #         ):
-        #             # Recursive call of this function
-        #             get_categories(page, depth + 1, max_depth)
-
-        #             # If we get to this point, all subcategories are done
-        #             #   Write this in the list of completed categories
-        #             print(f"{GREEN}Subcategories of {page.title} done{END}")
-        #             with open('category_list.txt', 'a') as f:
-        #                 f.write(f'{unidecode(page.title)}\n')
-
-        #     except requests.exceptions.ConnectionError as e:
-        #         print(f"Connection error: {e}. Retrying...")
-        #         time.sleep(5)  # Wait for 5 seconds before retrying
-        #         get_categories(page, depth, max_depth)
 
     except Exception as e:
         print(f"Error: {e}")
@@ -261,7 +221,7 @@ def save_page(page, clean=True):
 
         # Special characters in the title throw an error
         except OSError as e:
-            print(f"Error: {e}")
+            print(f" Error: {e} (special characters in title)")
 
         # Add to the list of completed pages
         with open('page_list.txt', 'a') as f:
@@ -329,6 +289,7 @@ if __name__ == '__main__':
 
     # Start the process
     random.shuffle(main_categories)
+
     for category in main_categories:
         get_categories(
             wiki_wiki.page(f"Category:{category}"),
